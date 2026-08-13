@@ -1,1 +1,438 @@
-# enhansome-anbernic
+# awesome-anbernic with stars
+
+[![image](https://user-images.githubusercontent.com/44711271/222904252-84ba4888-779b-49f5-8229-1a0d9c9ab6f7.png)](https://github.com/dag7dev/awesome-anbernic/blob/master/README.md) ⭐ 155 | 🐛 3 | 📅 2024-05-22
+
+Awesome list for Anbernic consoles, mainly focused on OSes.
+
+![image](https://user-images.githubusercontent.com/44711271/222904234-f01fb574-a42d-4b07-b5d9-48c47ea8af28.png)
+
+## Index
+
+* [awesome-anbernic](#awesome-anbernic)
+  * [Disclaimer](#disclaimer)
+
+* [Getting Started](#getting-started)
+  * [Models](#models)
+    * [List of models](#list-of-models)
+    * [Naming convention](#naming-convention)
+  * [Tech specs](#tech-specs)
+  * [First steps](#first-steps)
+    * [Charging your console](#charging-your-console)
+    * [FTP File Transfer](#ftp-file-transfer)
+
+* [Software](#software)
+  * [OS](#os)
+  * [Frontend](#frontend)
+  * [Games and homebrew](#games-and-homebrew)
+    * [What to play](#what-to-play)
+    * [Homebrews and games](#homebrews-and-games)
+  * [Tools](#tools)
+
+* [Hardware](#hardware)
+  * [Hardware mod](#hardware-mod)
+
+* [Misc](#misc)
+  * [Useful links](#useful-links)
+    * [\[NDS\] Games playable by one screen only](#nds-games-playable-by-one-screen-only)
+
+* [FAQ and troubleshooting](#faq-and-troubleshooting)
+
+## Disclaimer
+
+> We are not responsible for general hardware malfunctions, software, data loss, or anything else that may harm you or your devices
+>
+> All software and hardware modifications are at your own risk
+>
+> All links shown are provided without warranty, and we are not affiliated in any way with any products or stores.
+
+# Getting started
+
+## Models
+
+### List of models
+
+* RG ARC-D
+* RG ARC-S
+* RG280M/V
+* RG350M/P
+* RG351P/M/V/MP
+* RG405M/V
+* RG552
+* RG503
+* RG505
+* RG556
+* RG35xxH/Plus/SP/New RG35XX 2024
+* RG353M/P/PS/V/VS
+* WIN600
+* RG28XX
+* RG NANO
+
+No longer sold (hard to find):
+
+* RG300
+* RG300X
+* RetroGame RS-97
+* RetroGame RS-97 Plus
+
+### Naming convention
+
+Naming is unsure, but basing our knowledge on [this reddit thread](https://www.reddit.com/r/ANBERNIC/comments/z0dbui/anbernic_models_naming/):
+
+* model's name scheme is RGXXYZZ
+
+where
+
+* XX - size of screen
+* Y - processor
+  * 0 = JZ4770
+  * 1 = RK3326
+  * 2 = RK3399
+  * 3 = RK3366
+* Z - version (optional)
+  * P plastic
+  * M metal
+  * MP metal premium
+  * V vertical
+  * S single os
+
+RG552 and RG505 are some of Anbernic consoles that don't follow in some case these naming conventions.
+
+## Tech specs
+
+| Model         | Processor                                                            | GPU                        | RAM   | Resolution  | Screen Size              | Aspect Ratio | Stock OS                | Weight | Battery      | Price       |
+| ------------- | -------------------------------------------------------------------- | -------------------------- | ----- | ----------- | ------------------------ | ------------ | ----------------------- | ------ | ------------ | ----------- |
+| RG350         | Ingenic JZ4770 (1GHz, Dual-core)                                     | Vivante GC860              | 512MB | 320 x 240   | 3-Inches (IPS)           | 3:2          | OpenDingux              | 160g   | 2500mAh      | $89.99      |
+| RG350M        | Ingenic JZ4770 (1GHz, Dual-core)                                     | Vivante GC860              | 512MB | 640 x 480   | 3.5-inches (IPS)         | 4:3          | OpenDingux              | 255g   | 2500mAh      | $169.99     |
+| RG350P        | Ingenic JZ4770 (1GHz, Dual-core)                                     | Vivante GC860              | 512MB | 320 x 240   | 3-inches (IPS)           | 3:2          | OpenDingux              | 170g   | 2500mAh      | $89.99      |
+| RG280M        | Ingenic JZ4770 (1GHz, Dual-core)                                     | Vivante GC860              | 512MB | 320×480     | 2.8-inches               | 3:2          | OpenDingux              | 205g   | 2500mAh      | $109.99     |
+| RG280V        | Ingenic JZ4770 (1GHz, Dual-core)                                     | Vivante GC860              | 512MB | 320×480     | 2.8-inches               | 3:2          | OpenDingux              | 120g   | 2100mAh      | $79.99      |
+| RG351P        | Rockchip RK3326 (1.6GHz, quad-core)                                  | Mali-G31 MP2               | 1GB   | 320 x 480   | 3.5-inches               | 3:2          | EmuElec                 | 160g   | 3500mAh      | $99.99      |
+| RG351M        | Rockchip RK3326 (1.6GHz, quad-core)                                  | Mali-G31 MP2               | 1GB   | 320 x 480   | 3.5-inches               | 3:2          | EmuElec                 | 260g   | 3500mAh      | $139.99     |
+| RG351V        | Rockchip RK3326 (1.6GHz, quad-core)                                  | Mali-G31 MP2               | 1GB   | 640 x 480   | 3.5-inches               | 4:3          | EmuElec                 | 200g   | 3900mAh      | $114.99     |
+| RG351MP       | Rockchip RK3326 (1.6GHz, quad-core)                                  | Mali-G31 MP2               | 1GB   | 640 x 480   | 3.5-inches               | 4:3          | EmuElec                 | 267g   | 3500mAh      | $149.99     |
+| RG552         | Rockchip RK3399 (1.8GHz, hexa-core)                                  | Mali T860 GPU              | 4GB   | 1920 x 1152 | 5.3-inches               | 5:3          | Android 7.1             | 367g   | 6400mAh      | $230        |
+| RG503         | Rockchip RK3566 (1.8GHz, hexa-core)                                  | Arm Mali-G52               | 1GB   | 960 x 544   | 4.95-inches (OLED)       | 16:9         | Linux                   | 235g   | 3500mAh      |             |
+| RG505         | Unisoc Tiger T618                                                    | Mali-G52 MP2               | 4GB   | 960 x 544   | 4.95-inches (OLED) Touch | 16:9         | Android 12              | 286g   | 5000mAh      | $157.99     |
+| RG556         | Unisoc Tiger T820                                                    | Mali-G57 MP4               | 8GB   | 1920 x 1080 | 5.48-inches (OLED) Touch | 16:9         | Android 13              | 331g   | 5500mAh      | $185.99     |
+| RG353M        | Rockchip RK3566 (1.8GHz, hexa-core)                                  | Mali-G52 MP2               | 2GB   | 640 x 480   | 3.5-inches               | 4:3          | Linux & Android 11      | 232g   | 3500mAh      |             |
+| RG353P        | Rockchip RK3566 (1.8GHz, hexa-core)                                  | Mali-G52 MP2               | 2GB   | 640 x 480   | 3.5-inches               | 4:3          | Linux & Android 11      | 209g   | 3500mAh      |             |
+| RG353PS       | Rockchip RK3566 (1.8GHz, hexa-core)                                  | Mali-G52 MP2               | 1GB   | 640 x 480   | 3.5-inches               | 4:3          | Linux                   | 209g   | 3500mAh      |             |
+| RG353V        | Rockchip RK3566 (1.8GHz, hexa-core)                                  | Mali-G52 MP2               | 2GB   | 640 x 480   | 3.5-inches               | 4:3          | Linux & Android 11      | 193g   | 3200mAh      | $132        |
+| RG353VS       | Rockchip RK3566 (1.8GHz, hexa-core)                                  | Mali-G52 MP2               | 1GB   | 640 x 480   | 3.5-inches               | 4:3          | Linux                   | 193g   | 3200mAh      | $109        |
+| RG35xx        | Actions Semiconductor ATM7039S (1.6Ghz, quad-core)                   | PowerVR SGX544MP quad-core | 256MB | 640 x 480   | 3.5-inches (IPS)         | 4:3          | Linux                   | 175g   | 2100mAh      | $89.99      |
+| RG35xx   2024 | Allwinner H700 (1.5Ghz, quad-core)                                   | Mali-G31 MP2               | 1GB   | 640 x 480   | 3.5-inches (IPS)         | 4:3          | Linux                   | 175g   | 2600mAh      | $59.99      |
+| RG35xx  H     | Allwinner H700 (1.5Ghz, quad-core)                                   | Mali-G31 MP2               | 1GB   | 640 x 480   | 3.5-inches (IPS)         | 4:3          | Linux                   | 180g   | 3300mAh      | $59.99      |
+| RG35xx   Plus | Allwinner H700 (1.5Ghz, quad-core)                                   | Mali-G31 MP2               | 1GB   | 640 x 480   | 3.5-inches (IPS)         | 4:3          | Linux                   | 186g   | 3300mAh      | $64.99      |
+| RG35xx   SP   | Allwinner H700 (1.5Ghz, quad-core)                                   | Mali-G31 MP2               | 1GB   | 640 x 480   | 3.5-inches (IPS)         | 4:3          | Linux                   | 197g   | 3300mAh      | $64.99      |
+| WIN600        | AMD Athlon Silver 3020e (1.2Ghz) or AMD Athlon Silver 3050e (1.4Ghz) | AMD Radeon RX Vega 3       | 8GB   | 1280 x 720  | 5.94-inches (touch)      | 16:9         | Win10 - SteamOS - Linux | 490g   | 4500mAh \* 2 | $300 - $475 |
+| RG405M        | Unisoc Tiger T618                                                    | Mali-G52 MP2               | 4GB   | 960 x 544   | 4.95-inches (OLED) Touch | 16:9         | Android 12              | 286g   | 5000mAh      | $157.99     |
+| RG405V        | Unisoc Tiger T618                                                    | Mali-G52 MP2               | 4GB   | 960 x 544   | 4.95-inches (OLED) Touch | 16:9         | Android 12              | 286g   | 5000mAh      | $157.99     |
+| RG ARC-D      | Rockchip RK3566 (1.8GHz, hexa-core)                                  | Mali-G52 MP2               | 2GB   | 640 x 480   | 4-inches                 | 4:3          | Linux & Android 11      | 193g   | 3200mAh      | $89.99      |
+| RG ARC-S      | Rockchip RK3566 (1.8GHz, hexa-core)                                  | Mali-G52 MP2               | 1GB   | 640 x 480   | 4-inches                 | 4:3          | Linux                   | 193g   | 3200mAh      | $84.99      |
+| RG28XX        | ARM Cortex-A53 (1.5GHz, quad-core)                                   | Mali-G31 MP2               | 1GB   | 640 x 480   | 2.83-inches              | 4:3          | Linux                   | 125g   | 3100mAh      | $47.99      |
+| RG-NANO       | Allwinner V3s                                                        | Mali-G31 MP2               | 64MB  | 240 x 240   | 1.54-inches              | 1:1          | OpenDingux              | 75g    | 1050mAh      | $47.99      |
+
+**Historical purpose**
+
+| Model                | Processor                         | GPU           | RAM   | Resolution | Screen Size      | Aspect Ratio | Stock OS   | Weight | Battery | Price  |
+| -------------------- | --------------------------------- | ------------- | ----- | ---------- | ---------------- | ------------ | ---------- | ------ | ------- | ------ |
+| RG300                | Ingenic JZ4760B (1GHz, Dual-core) | ?             | 128MB | 960 x 480  | 3-inches         | 2:1          | OpenDingux | 350g   | 1800mAh | $50.00 |
+| RG300X               | Ingenic JZ4770 (?GHz, Dual-core)  | Vivante GC860 | 512MB | 640 x 480  | 3.5-inches (IPS) | 4:3          | OpenDingux | 255g   | 2500mAh | $79.99 |
+| RetroGame RS-97 Plus | Ingenic JZ4760 (528MHz - 600MHz)  | -             | 128MB | 320 x 480  | 3-inches         | 4:3          | OpenDingux | 133g   | 1800mAh |        |
+| RetroGame RS-97      | Ingenic JZ4760 (528MHz - 600MHz)  | -             | 128MB | 320 x 480  | 3-inches         | 4:3          | OpenDingux | 133g   | 890mAh  |        |
+
+## First steps
+
+* Replace included SD card with renowned brands immediately. Included SD card are generally cheap and error-prone.
+* Verify you're using the correct charging adapter.
+* (optional) Flash custom firmware to have more flexibility.
+* (optional) Try Android on supported Anbernic console. While booting the console, hold the F button.
+* Charge your console: using a fast charger is highly discouraged, although supported.
+* 5V/1.5A on some console may be supported: this information is usually written on a sticker behind your console. Although officially supported, we strongly discourage using an adapter different than 5V/1A.
+
+### Charging your console
+
+Always shut it down and connect the charger.
+
+Charge your console: using a fast charger higher than 1.5V/1A is highly discouraged, although supported on some consoles. **Check your device before charging it**, otherwise you will permanently damage your battery.
+
+### HDMI Output
+
+If you try to output your screen through the HDMI, some users have reported that they've damaged their units while outputting on a HDMI screen and charging at the same time.
+
+Since it is uncertain wether to charge and use HDMI output at the same time or not, do not attempt to do this.
+
+In case you decide to both output on HDMI screen and charge at the same time, proceed at your own risk!
+
+### FTP File Transfer
+
+If you kept the stock linux firmware and your device is WIFI-Capable, FTP could be a good option for transferring files from your computer to your console.
+
+This can also be achieved with other OS, but every OS has its own settings.
+
+Using Stock OS:
+
+1. Connect your device to WIFI: Start > Network Settings > Enable WIFI > Input all data on your Internet access point
+
+2. Make note of your IP Address (from here onwards called Anbernic IP)
+
+3. Download [FileZilla](https://filezilla-project.org/) or any other ftp client that supports SFTP, and establish a new connection using SFTP.
+
+4. Roms files could be placed under `/userdata/roms` folder or `/roms/` folder, depending on your SD.
+
+#### Connection parameters
+
+| OS            | Host        | User   | Pass                                                     | Port |
+| ------------- | ----------- | ------ | -------------------------------------------------------- | ---- |
+| 351ELEC       | Anbernic IP | root   | 351elec                                                  | 22   |
+| ArkOS         | Anbernic IP | ark    | ark                                                      | 22   |
+| Batocera      | Anbernic IP | root   | linux                                                    | 22   |
+| Stock         | Anbernic IP | root   | linux                                                    | 22   |
+| TheRetroArena | Anbernic IP | odroid | odroid                                                   | 22   |
+| uOS/JELOS     | Anbernic IP | root   | freshly generated for each installation, see system info | 22   |
+| Recalbox      | Anbernic IP | root   | recalboxroot                                             | 22   |
+
+* NOTE: your running ftp client machine and your Anbernic console MUST be connected at the same WIFI.
+* NOTE2: by default, Stock OS enable SFTP if connected. If it isn't your case, just edit anbernic.conf file in your primary SD.
+* NOTE3: SFTP server option may be disabled on other OSes. Make sure to enable it first!
+
+# Software
+
+## OS
+
+General facts found while browsing:
+
+* Nintendo DS and Nintendo 64 emulation works best on Android.
+* Unless you'd like to have something tinkerable, you should go with Stock OS
+* The main difference between uOS/JELOS and ArkOS: the first ones uses EmulationStation for configs and settings, Ark uses RetroArch
+
+### Stock firmwares
+
+* [ArkOS](https://github.com/christianhaitian/arkos/wiki) ⚠️ Archived : Retroarch + Emustation frontend
+  * RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP
+* [AmberELEC](https://github.com/AmberELEC/AmberELEC) ⭐ 1,191 | 🐛 7 | 🌐 Makefile | 📅 2025-10-09: fork of EmuELEC which is based on CoreELEC, Lakka, and Batocera
+  * RG353P/M/V/VS/PS (planned), RG351P/M/V/MP, RG552,
+* [JELOS](https://github.com/JustEnoughLinuxOS/distribution) ⚠️ Archived: Uncertain support for Anbernic builds. See UnofficialOS for more…
+  * RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP, RG503, WIN600
+* [Adam](https://github.com/eduardofilo/RG350_adam_image) ⚠️ Archived Custom firmware EmuStation for 350/350P, 280MV, 300X
+  * RG350/M/P, RG280M/V, RG300X
+* [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 304 | 🐛 0 | 🌐 Makefile | 📅 2026-06-25  : JELOS fork. Retroarch + Emustation frontend
+  * RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP, RG503, WIN600
+* [RogueCFW](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW) ⭐ 226 | 🐛 0 | 🌐 Python | 📅 2021-08-16 Rogue CFW for RG350
+  * RG350/M/P, RG280V/M, RG300X
+* [MinUI](https://github.com/shauninman/union-minui) ⚠️ Archived: Minimal frontend. minarch + libretro cores
+  * RG35XX
+* **Linux**: Stock firmware. Everything’s barely playable.
+  * Supported on: RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP, RG503, RG552 (batocera), WIN600 (Linux or Win10 or SteamOS)
+* **Android** Stock: Android stock firmware
+  * RG353P/M/V/PS, RG552, RG505
+* **OpenDingux Stock**
+
+  * RG300X, RG280M/V, RG350/M/P, RG-300, RetroGame RS-97 Plus, RetroGame RS-97
+
+  ### CFW
+* [RetroFW](http://www.retrofw.com/): it allows you to play a wide variety of consoles, computers and popular videogame ports
+  * RG-300, RetroGame RS-97 Plus, RetroGame RS-97
+* [TheRetroArena](https://techtoytinker.com/handheld-corner): Retropie’s Fork for handheld. Features depending on your model.
+  * RG353P/M/V/VS/PS, RG351P/M/V/MP, RG503, RG300X, RG280M/V, RG350/M/P, WIN600
+* [Lakka](https://www.lakka.tv/get/linux/)  Linux OS RetroArch and LibreELEC based.
+  * RG351P/M/V/MP
+* [Batocera](https://batocera.org/download): Batocera.linux is an open-source and completely free retro-gaming distribution that can be copied to a USB stick or an SD card with the aim of turning any computer/nano computer into a gaming console during a game or permanently
+  * RG351P/M/V/MP, RG552, WIN600
+* [Garlic OS](https://www.patreon.com/posts/garlicos-for-76561333) RetroArch port for RG35XX, with fully working sleep mode, improved button mappings, a whole new user interface and several under-the-hood bugfixes
+  * RG35xx,
+* [Recalbox](https://recalbox.com) THE all-in-one retro gaming console! Replay all the consoles, arcades, and computers of your childhood.
+  * RG350/M/P, RG353P/M/V/VS/PS, RG351P/M/V/MP
+
+## Frontend
+
+Here's a non-exhaustive list of frontends that you can use with your Anbernic:
+
+* [EmulationStation](https://github.com/Aloshi/EmulationStation) ⭐ 2,294 | 🐛 555 | 🌐 C++ | 📅 2024-07-15: A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!
+* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,857 | 🐛 149 | 🌐 Python | 📅 2026-08-07: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
+* \[Opendingux] [SimpleMenu](https://github.com/fgl82/simplemenu/releases) ⭐ 160 | 🐛 27 | 🌐 C | 📅 2026-03-16:  Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices
+* \[Android] [Launchbox](https://www.launchbox-app.com/): box-art-based games database and launcher for DOSBox, emulators, arcade cabinets, and PC Games
+
+## Games and homebrew
+
+### What to play
+
+* [/v/ Recommended Games](https://vsrecommendedgames.miraheze.org/wiki/Main_Page)
+
+### Homebrews and games
+
+* [Romhacking.net](https://www.romhacking.net/homebrew/) the evergreen romhacking.net website
+* [Homebrew Hub (GBDev.io)](https://hh.gbdev.io/) massive showcase of games and demos [also available for GBA](https://hh.gbdev.io/games/gba)
+* [PS1 Homebrew](https://www.psx-place.com/forums/ps1-homebrew.48/) historical forum with tons of psx homebrew
+* [N64Squid.com homebrew curated list](https://n64squid.com/homebrew/) a curated n64 homebrew list by n64squid
+* [Gamebrew.org](https://www.gamebrew.org/wiki/List_of_DS_homebrew_applications) collaborative wiki for nds homebrew games and ports
+
+## Tools
+
+* [PortMaster](https://github.com/christianhaitian/PortMaster) ⭐ 694 | 🐛 3 | 🌐 Python | 📅 2024-02-03: A simple tool that allows you to download various game ports that are available for 351Elec/AmberElec, ArkOS, JelOS, RetroOZ, TheRA, and UnofficialOS for the RK3326 and RK3566 devices and the RG552.
+
+* [Emulationstation-OGA-Theme-Gallery](https://github.com/Jetup13/Emulationstation-OGA-Theme-Gallery) ⭐ 277 | 🐛 1 | 📅 2026-06-18: Emulationstation theme gallery that links to themes that are compatible on small screen devices such as OGA, OGS, Gameforce Chi, RGB10, RGB10MAX, RK2020, RG351p/m, RG351v, and RG503.
+
+* [ThemeMaster](https://github.com/JohnIrvine1433/ThemeMaster) ⭐ 159 | 🐛 2 | 🌐 Shell | 📅 2026-04-12 An EmulationStation theme manager for small screen devices running [ArkOS](https://github.com/christianhaitian/arkos) ⚠️ Archived, [RetroOZ](https://github.com/southoz/RetroOZ) ⭐ 58 | 🐛 39 | 📅 2022-12-22, [TheRA](https://techtoytinker.com/theretroarena), [JELOS](https://github.com/JustEnoughLinuxOS/distribution) ⚠️ Archived or [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 304 | 🐛 0 | 🌐 Makefile | 📅 2026-06-25.
+
+* [AnberPorts](https://github.com/krishenriksen/AnberPorts) ⚠️ Archived: AnberPorts for Anbernic RG351P/M and RG351V running ArkOS, 351elec and The RA. The project is on hold, so it is advised to use **PortMaster**.
+
+# Hardware
+
+## Hardware mod
+
+* [Arrow fix - d-pad fix - Youtube](https://www.youtube.com/watch?v=-vl3qyifYJM)
+* \[RG350] [3D Printable Anbernic RG350 abxy buttons](https://www.thingiverse.com/thing:4000064)
+* \[RG350] [3D Printable Anbernic RG350 stick](https://www.thingiverse.com/thing:3963163)
+* \[RG350] [Screen 350M on RG350](https://retrogamecorps.com/2020/09/16/guide-install-the-rg350m-screen-on-your-rg350/)
+* \[RG351P] [3D Printable Dock](https://www.thingiverse.com/thing:4780269)
+* \[RG351P] [Add Wifi Module](https://youtu.be/lBEAIU5fn0Q)
+* \[RG35xx] [Better button "BetterButtons" mod (Etsy shop)](https://www.etsy.com/listing/1398432049/better-buttons-for-rg35xx)
+* \[RG353] [3D Printable Clamshell](https://www.thingiverse.com/thing:5861679)
+* \[RG350] \[RG351] [Grip remover](https://youtu.be/5URkOzxSaRE)
+* \[RG353] [Custom skin overlay](https://www.etsy.com/ca/listing/1333542850/anbernic-rg353v-custom-skinoverlay)
+* \[RG353] [Better shoulder buttons](https://www.etsy.com/ca/listing/1353958841/better-shoulder-buttons-for-rg353v)
+* Misc for ANBERNIC consoles (generic sellers)
+  * [SakuraRetroModding](https://www.etsy.com/ca/shop/SakuraRetroModding)
+  * \[JP Only] [Various-booth](https://various-booth.booth.pm/)
+
+# Misc
+
+## Useful links
+
+* [SNES Fastrom patches](https://docs.google.com/spreadsheets/d/1gUB4N0-tM7Ln-9ZMwkp_T7bwb4tDAMI6ciioYMxXzSk/edit#gid=0) - [more info on FastROM project](https://github.com/VitorVilela7/fastrom) ⭐ 283 | 🐛 2 | 🌐 Assembly | 📅 2022-01-04
+* \[RG351P] [RG351P PPSSPP Settings and Compatibility List](https://github.com/jserodio/rg351p-ppsspp-settings) ⚠️ Archived
+* [Retrosizer](https://retrosizer.com/) compare the size of handheld devices and see how certain systems will appear on their screens. You can drag the devices and rotate them etc. (controllers too)
+* [Google Sheet with technical specs about other consoles](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/edit?usp=drivesdk)
+* [Connect an external device by OTG](https://retrogamecorps.com/2020/08/29/guide-external-gamepad-support-for-the-rg350/)
+* [PSP Settings for XX3 devices](https://gitlab.com/k-tec/rk3566-ppsspp-settings)
+* [PSP Improved emulation on supported Anbernic devices](https://www.reddit.com/r/RG353V/comments/1106acz/comment/j88op01/?utm_source=share\&utm_medium=web2x\&context=3)
+* \[RG353] [Reddit Megathread about CFW (ArkOS, JELOS)](https://www.reddit.com/r/RG353V/comments/y6p2bj/firmware_megathread_arkos_jelos_stock_firmware/)
+* \[RG552] [RG552 Fix rewind, retroarch overrides, button numbers](https://gist.github.com/maddox/fca7fa3f00265eb15d23ed4556e4c78e)
+* \[RG350] [HDMI Output Patch for old console](https://retrogamecorps.com/2020/08/18/rg350-hdmi/)
+
+### NDS Games playable by one screen only
+
+Tons of patches are available for a lot of games.
+
+However these could be particularly useful since some of Anbernic consoles support NDS emulation.
+
+Titles have been aggregated from these links: [link1](https://www.reddit.com/r/EmulationOnAndroid/comments/61tbsx/lets_make_a_list_of_nontouchmostlygamepad/) - [link2](https://www.reddit.com/r/retroid/comments/i8jqfj/gamepadfriendly_ds_games/) - [link3](https://www.reddit.com/r/RetroPie/comments/7120yx/ds_games_that_dont_use_touch_screen/)
+
+* Advance Wars: Days of Ruin
+* Advance Wars: Dual Strike
+* Aliens: Infestation
+* Asphalt: Urban GT
+* Assassin's Creed II: Discovery
+* Castlevania: Dawn of Sorrow (with [No Touchscreen patch](http://www.romhacking.net/hacks/3408/))
+* Castlevania: Order of Ecclesia
+* Castlevania: Portrait of Ruin
+* Custom Robo Arena
+* Disgaea DS
+* Dragon Quest 4/5/6/9
+* Dragon Quest Heroes: Rocket Slime! (except optional minigames)
+* Dragon Quest Monsters: Joker 1/2
+* Etrian Odyssey 1/2/3
+* Final Fantasy III / IV
+* Final Fantasy Tactics: Advance 2
+* Fire Emblem: Shadow Dragon
+* Front Mission
+* Geometry Wars: Galaxies
+* Infinite Space
+* Kingdom Hearts Re: Coded
+* Kingdom Hearts: 358/2 Days
+* Kirby: Squeak Squad
+* Kirby: Super Star Ultra
+* Lunar Knights
+* Mario & Luigi: Partners in Time / Bowser's Inside Story
+* Mario Kart DS
+* Mega Man ZX / ZX Advent
+* Mega Man Zero Collection
+* MegaMan series
+* Metal Slug 7 (though Metal Slug XX on PSP seems to be a superior version of this game, and runs perfectly in lr-ppsspp)
+* N+
+* New Super Mario Bros. (except "reserve" item)
+* Phantasy Star 0
+* Phoenix Wright series
+* Pokemon Mystery Dungeon Serie
+* Radiant Historia
+* Rhythm Heaven (using [button patch](https://www.romhacking.net/hacks/4824/).
+  * note: touch screen is **still required** but this patch helps in playing it in a somewhat confortable way. This is the only exception to this list.
+* Rune Factory 3
+* Sands of Destruction
+* Shin Megami Tensei: Devil Survivor / Devil Survivor 2
+* Shin Megami Tensei: Strange Journey
+* SolatoRobo: Red the Hunter
+* Sonic Rush (except special stages)
+* Spider-Man: Web of Shadows
+* Suikoden Tierkreis
+* Super Mario 64 DS (only after you've saved in-game at least once - on the first playthrough, you're required to touch the star - also, optional minigames require touch)
+* Super Robot Taisen OG Saga: Endless Frontier
+* Tales of Innocence
+* Tetris DS (no minigames)
+* The Legend of Zelda: Phantom Hourglass (using [D-Pad Patch](https://www.romhacking.net/hacks/786/))
+* The Legend of Zelda: Spirit Tracks (using [D-Pad Patch](https://www.romhacking.net/hacks/2235/))
+* Umihara Kawase Shun
+* Valkyrie Profile: Covenant of the Plume
+* Yoshi's Island DS
+* Yugioh 5d's games
+
+# FAQ and troubleshooting
+
+* Android boot / How to Boot Android on supported models.
+  * Using stock: power off your console (Start > Power off). Hold F button and power on until you see Anbernic logo.
+  * Using another OS: pop out your SDs.
+
+* Single or dual sd card setup?
+  * In most cases a single sd card will be fine. Consider a dual sd setup if you're planning to swap OSs often or if your game collection is exceptionally large. Regardless your choice, make note that you will need to invest in a decent SD Card to prevent data loss or unintended behaviors.
+
+* D-pad doesn't work / dpad works bad.
+  * [Electrical tape mod](https://www.youtube.com/watch?v=-vl3qyifYJM) this mainly occurs while playing Pokemon games.
+
+* Strange LED behavior / battery doesn't work
+  * either open your console, took out the batter connector for a minute or two, rensemble back and hope that everything works OR
+  * the battery is dying. You've permanently damaged your console while using a high voltage charger or something else has happened. **ALWAYS USE A 5V/1A charger!**
+
+* Saving doesn't seem to work / saves don't work
+  * **Replace your SD Card with one made by a reputable brand**. Best ones: Samsung, Sandisk, Lexar, Kingston, Transcend.
+
+* No audio / audio doesn't work / stock os audio issue
+  * Assuming that you haven't permanently damaged your console, make sure that audio output option is 'auto' (or desired one).
+
+* Battery upgrade / batteries / battery compatible with...
+  1. Check the specs of the target battery match with the original one (not considering mAh)
+  2. Check their connectors
+  3. Buy
+  4. Don't waste your money on too cheap batteries with too high mAh. Such batteries has fake capacity and last very little.
+
+* Shell replacement / custom shell
+  * Currently ANBERNIC **doesn't sell** separate shells for their console.
+
+* Display replacement
+  * Speaking in general, ANBERNIC **doesn't sell** separate displays.
+
+* Refund policy
+  * [Anbernic, from their homepage](https://anbernic.com/pages/refund-policy):
+    15-Day Refund Policy - Undamaged products can be refunded within 15 days after the delivery date(applicable only in selected destination countries).Once the item is returned to Anbernic warehouse for inspection，the refund process will begin in 3 working days. Refunds will be credited within 5-10 working days. - JP EU and US.
+  * Everyone else: check their policy on their website
+
+* Change battery low icon
+  * Replace `battery_low.bmp.gz` in MISC.
+
+* Retroachievements don't work
+  * Make sure to be online. If doing wireless hotspot from your phone, make sure you have the required connection.
+  * They're not available offline. There is no known way to fix this.
+
+* \[353] While playing NDS games, touch screen doesn't work, what should I do? / NDS touch screen doesn't work / not working touch screen
+  * Currently, there is no known way to solve this issue. Best thing you can do is either check out the "one screen playable" games or use Drastic NDS Emulator on Android. However there exist [unconfirmed rumors on ArkOS / JELOS](https://www.reddit.com/r/RG353V/comments/ydsa36/how_to_make_the_touch_screen_work_for_nds/itty31g/) about being able to make it working on those OSes.
+
+* \[JELOS] Where gamelist.xml of custom game collections are saved in JELOS?
+  * `/storage/.emulationstation/collections/`
+  * Samba share path: `\config\emulationstation\collections`
+
+* \[Adam CFW] \[NES color palette] I was playing a game on the NES emulator and noticed I hit some button combo accidentally and it changed the color display. Any idea how to change it back to normal?
+  * L2+dpad left/right will allow you to scroll through all the color pallete options. There are actually some really cool options here. [(source)](https://www.reddit.com/r/RG350/comments/11j7oyd/adam_image_nes_color_display/)
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._

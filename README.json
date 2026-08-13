@@ -1,0 +1,290 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Disclaimer"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Models"
+    },
+    {
+      "description": "Historical purpose",
+      "items": [],
+      "title": "Tech specs"
+    },
+    {
+      "description": "Always shut it down and connect the charger.\nCharge your console: using a fast charger higher than 1.5V/1A is highly discouraged, although supported on some consoles. Check your device before charging it, otherwise you will permanently damage your battery.",
+      "items": [],
+      "title": "Charging your console"
+    },
+    {
+      "description": "If you try to output your screen through the HDMI, some users have reported that they've damaged their units while outputting on a HDMI screen and charging at the same time.\nSince it is uncertain wether to charge and use HDMI output at the same time or not, do not attempt to do this.\nIn case you decide to both output on HDMI screen and charge at the same time, proceed at your own risk!",
+      "items": [],
+      "title": "HDMI Output"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ArkOS",
+          "description": "Retroarch + Emustation frontend",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2025-08-01T02:15:46Z",
+            "owner": "christianhaitian",
+            "repo": "arkos",
+            "stars": 2153
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AmberELEC",
+          "description": "fork of EmuELEC which is based on CoreELEC, Lakka, and Batocera",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2025-10-09T20:59:53Z",
+            "owner": "AmberELEC",
+            "repo": "AmberELEC",
+            "stars": 1191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JELOS",
+          "description": "Uncertain support for Anbernic builds. See UnofficialOS for more…",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Makefile",
+            "last_commit": "2024-05-08T15:39:18Z",
+            "owner": "JustEnoughLinuxOS",
+            "repo": "distribution",
+            "stars": 948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adam",
+          "description": "Custom firmware EmuStation for 350/350P, 280MV, 300X",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2022-12-12T14:05:31Z",
+            "owner": "eduardofilo",
+            "repo": "RG350_adam_image",
+            "stars": 322
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnofficialOS",
+          "description": "JELOS fork. Retroarch + Emustation frontend",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-06-25T03:11:29Z",
+            "owner": "RetroGFX",
+            "repo": "UnofficialOS",
+            "stars": 304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RogueCFW",
+          "description": "Rogue CFW for RG350",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-08-16T09:33:51Z",
+            "owner": "Ninoh-FOX",
+            "repo": "RG350-ROGUE-CFW",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MinUI",
+          "description": "Minimal frontend. minarch + libretro cores",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2023-03-26T13:12:35Z",
+            "owner": "shauninman",
+            "repo": "MinUI-Legacy-RG35XX",
+            "stars": 225
+          }
+        }
+      ],
+      "title": "Stock firmwares"
+    },
+    {
+      "description": "Here's a non-exhaustive list of frontends that you can use with your Anbernic:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "EmulationStation",
+          "description": "A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-07-15T10:00:14Z",
+            "owner": "Aloshi",
+            "repo": "EmulationStation",
+            "stars": 2294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Android] Daijishou",
+          "description": "Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T03:18:16Z",
+            "owner": "TapiocaFox",
+            "repo": "Daijishou",
+            "stars": 1857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[Opendingux] SimpleMenu",
+          "description": "Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-03-16T03:15:47Z",
+            "owner": "fgl82",
+            "repo": "simplemenu",
+            "stars": 160
+          }
+        }
+      ],
+      "title": "Frontend"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Games and homebrew"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PortMaster",
+          "description": "A simple tool that allows you to download various game ports that are available for 351Elec/AmberElec, ArkOS, JelOS, RetroOZ, TheRA, and UnofficialOS for the RK3326 and RK3566 devices and the RG552.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-03T12:11:12Z",
+            "owner": "christianhaitian",
+            "repo": "PortMaster",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emulationstation-OGA-Theme-Gallery",
+          "description": "Emulationstation theme gallery that links to themes that are compatible on small screen devices such as OGA, OGS, Gameforce Chi, RGB10, RGB10MAX, RK2020, RG351p/m, RG351v, and RG503.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-18T08:20:35Z",
+            "owner": "Jetup13",
+            "repo": "Emulationstation-OGA-Theme-Gallery",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ThemeMaster",
+          "description": "An EmulationStation theme manager for small screen devices running ArkOS, RetroOZ, TheRA, JELOS or UnofficialOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-12T12:30:06Z",
+            "owner": "JohnIrvine1433",
+            "repo": "ThemeMaster",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnberPorts",
+          "description": "AnberPorts for Anbernic RG351P/M and RG351V running ArkOS, 351elec and The RA. The project is on hold, so it is advised to use PortMaster.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2023-04-26T08:42:11Z",
+            "owner": "krishenriksen",
+            "repo": "AnberPorts",
+            "stars": 104
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SNES Fastrom patches",
+          "description": "more info on FastROM project",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Assembly",
+            "last_commit": "2022-01-04T14:21:55Z",
+            "owner": "VitorVilela7",
+            "repo": "fastrom",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "[RG351P] RG351P PPSSPP Settings and Compatibility List",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2021-01-18T20:38:43Z",
+            "owner": "jserodio",
+            "repo": "rg351p-ppsspp-settings",
+            "stars": 92
+          }
+        }
+      ],
+      "title": "Useful links"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:22:18.011Z",
+    "original_repository": "dag7dev/awesome-anbernic",
+    "original_repository_sha": "f5db978a31356553b1628f1badc7737116a4c977",
+    "enhanced_repository": "enhansome/enhansome-anbernic",
+    "enhanced_repository_description": null,
+    "title": "awesome-anbernic with stars"
+  }
+}
