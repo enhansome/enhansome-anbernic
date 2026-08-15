@@ -53,7 +53,7 @@
             "last_commit": "2025-10-09T20:59:53Z",
             "owner": "AmberELEC",
             "repo": "AmberELEC",
-            "stars": 1193
+            "stars": 1194
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-07T03:18:16Z",
             "owner": "TapiocaFox",
             "repo": "Daijishou",
-            "stars": 1860
+            "stars": 1862
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-06-18T08:20:35Z",
             "owner": "Jetup13",
             "repo": "Emulationstation-OGA-Theme-Gallery",
-            "stars": 277
+            "stars": 278
           }
         },
         {
@@ -280,7 +280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T05:43:31.861Z",
+    "last_updated": "2026-08-15T04:39:57.600Z",
     "original_repository": "dag7dev/awesome-anbernic",
     "original_repository_sha": "f5db978a31356553b1628f1badc7737116a4c977",
     "enhanced_repository": "enhansome/enhansome-anbernic",
