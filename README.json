@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "Makefile",
-            "last_commit": "2025-10-09T20:59:53Z",
+            "last_commit": "2026-08-15T22:39:21Z",
             "owner": "AmberELEC",
             "repo": "AmberELEC",
             "stars": 1194
@@ -81,7 +81,7 @@
             "last_commit": "2022-12-12T14:05:31Z",
             "owner": "eduardofilo",
             "repo": "RG350_adam_image",
-            "stars": 322
+            "stars": 323
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-07T03:18:16Z",
             "owner": "TapiocaFox",
             "repo": "Daijishou",
-            "stars": 1862
+            "stars": 1865
           }
         },
         {
@@ -280,7 +280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T04:39:57.600Z",
+    "last_updated": "2026-08-16T04:44:04.299Z",
     "original_repository": "dag7dev/awesome-anbernic",
     "original_repository_sha": "f5db978a31356553b1628f1badc7737116a4c977",
     "enhanced_repository": "enhansome/enhansome-anbernic",
