@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "Makefile",
-            "last_commit": "2026-08-17T15:40:23Z",
+            "last_commit": "2026-08-18T13:40:17Z",
             "owner": "AmberELEC",
             "repo": "AmberELEC",
             "stars": 1194
@@ -143,7 +143,7 @@
             "last_commit": "2024-07-15T10:00:14Z",
             "owner": "Aloshi",
             "repo": "EmulationStation",
-            "stars": 2293
+            "stars": 2292
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-17T06:26:55Z",
             "owner": "TapiocaFox",
             "repo": "Daijishou",
-            "stars": 1868
+            "stars": 1871
           }
         },
         {
@@ -224,7 +224,7 @@
             "last_commit": "2026-04-12T12:30:06Z",
             "owner": "JohnIrvine1433",
             "repo": "ThemeMaster",
-            "stars": 159
+            "stars": 160
           }
         },
         {
@@ -280,7 +280,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:45:09.715Z",
+    "last_updated": "2026-08-19T04:45:30.690Z",
     "original_repository": "dag7dev/awesome-anbernic",
     "original_repository_sha": "f5db978a31356553b1628f1badc7737116a4c977",
     "enhanced_repository": "enhansome/enhansome-anbernic",
