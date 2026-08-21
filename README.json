@@ -19,7 +19,7 @@
                     "last_commit": "2025-08-01T02:15:46Z",
                     "owner": "christianhaitian",
                     "repo": "arkos",
-                    "stars": 2153
+                    "stars": 2152
                   }
                 },
                 {
@@ -148,10 +148,10 @@
                 "archived": false,
                 "id": 466666051,
                 "language": "Python",
-                "last_commit": "2026-08-17T06:26:55Z",
+                "last_commit": "2026-08-21T03:23:05Z",
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1870
+                "stars": 1874
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2024-02-03T12:11:12Z",
                 "owner": "christianhaitian",
                 "repo": "PortMaster",
-                "stars": 694
+                "stars": 695
               }
             },
             {
@@ -203,7 +203,7 @@
                 "last_commit": "2026-06-18T08:20:35Z",
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
-                "stars": 279
+                "stars": 278
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2022-01-04T14:21:55Z",
                 "owner": "VitorVilela7",
                 "repo": "fastrom",
-                "stars": 283
+                "stars": 284
               }
             },
             {
@@ -289,7 +289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T04:47:10.944Z",
+    "last_updated": "2026-08-21T04:49:09.382Z",
     "original_repository": "dag7dev/awesome-anbernic",
     "original_repository_id": 609091807,
     "original_repository_sha": "f5db978a31356553b1628f1badc7737116a4c977",
