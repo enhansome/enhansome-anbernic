@@ -31,10 +31,10 @@
                     "archived": false,
                     "id": 311159060,
                     "language": "Makefile",
-                    "last_commit": "2026-08-18T13:40:17Z",
+                    "last_commit": "2026-08-21T16:07:35Z",
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
-                    "stars": 1194
+                    "stars": 1193
                   }
                 },
                 {
@@ -151,7 +151,7 @@
                 "last_commit": "2026-08-21T03:23:05Z",
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1874
+                "stars": 1875
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2024-02-03T12:11:12Z",
                 "owner": "christianhaitian",
                 "repo": "PortMaster",
-                "stars": 695
+                "stars": 696
               }
             },
             {
@@ -289,7 +289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:49:09.382Z",
+    "last_updated": "2026-08-22T04:41:36.030Z",
     "original_repository": "dag7dev/awesome-anbernic",
     "original_repository_id": 609091807,
     "original_repository_sha": "f5db978a31356553b1628f1badc7737116a4c977",
