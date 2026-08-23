@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-21T16:07:35Z",
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
-                    "stars": 1193
+                    "stars": 1194
                   }
                 },
                 {
@@ -151,7 +151,7 @@
                 "last_commit": "2026-08-21T03:23:05Z",
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1875
+                "stars": 1876
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2022-01-04T14:21:55Z",
                 "owner": "VitorVilela7",
                 "repo": "fastrom",
-                "stars": 284
+                "stars": 285
               }
             },
             {
@@ -289,7 +289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T04:41:36.030Z",
+    "last_updated": "2026-08-23T04:46:48.508Z",
     "original_repository": "dag7dev/awesome-anbernic",
     "original_repository_id": 609091807,
     "original_repository_sha": "f5db978a31356553b1628f1badc7737116a4c977",
