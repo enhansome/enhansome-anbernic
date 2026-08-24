@@ -248,7 +248,7 @@ General facts found while browsing:
 
 Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
-* [EmulationStation](https://github.com/Aloshi/EmulationStation) ⭐ 2,293 | 🐛 555 | 🌐 C++ | 📅 2024-07-15: A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!
+* [EmulationStation](https://github.com/Aloshi/EmulationStation) ⭐ 2,294 | 🐛 555 | 🌐 C++ | 📅 2024-07-15: A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!
 * \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,877 | 🐛 151 | 🌐 Python | 📅 2026-08-21: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
 * \[Opendingux] [SimpleMenu](https://github.com/fgl82/simplemenu/releases) ⭐ 160 | 🐛 27 | 🌐 C | 📅 2026-03-16:  Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices
 * \[Android] [Launchbox](https://www.launchbox-app.com/): box-art-based games database and launcher for DOSBox, emulators, arcade cabinets, and PC Games
@@ -269,7 +269,7 @@ Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 ## Tools
 
-* [PortMaster](https://github.com/christianhaitian/PortMaster) ⭐ 696 | 🐛 3 | 🌐 Python | 📅 2024-02-03: A simple tool that allows you to download various game ports that are available for 351Elec/AmberElec, ArkOS, JelOS, RetroOZ, TheRA, and UnofficialOS for the RK3326 and RK3566 devices and the RG552.
+* [PortMaster](https://github.com/christianhaitian/PortMaster) ⭐ 697 | 🐛 3 | 🌐 Python | 📅 2024-02-03: A simple tool that allows you to download various game ports that are available for 351Elec/AmberElec, ArkOS, JelOS, RetroOZ, TheRA, and UnofficialOS for the RK3326 and RK3566 devices and the RG552.
 
 * [Emulationstation-OGA-Theme-Gallery](https://github.com/Jetup13/Emulationstation-OGA-Theme-Gallery) ⭐ 278 | 🐛 1 | 📅 2026-06-18: Emulationstation theme gallery that links to themes that are compatible on small screen devices such as OGA, OGS, Gameforce Chi, RGB10, RGB10MAX, RK2020, RG351p/m, RG351v, and RG503.
 
