@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-21T16:07:35Z",
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
-                    "stars": 1194
+                    "stars": 1195
                   }
                 },
                 {
@@ -136,7 +136,7 @@
                 "last_commit": "2024-07-15T10:00:14Z",
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2292
+                "stars": 2293
               }
             },
             {
@@ -151,7 +151,7 @@
                 "last_commit": "2026-08-21T03:23:05Z",
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1876
+                "stars": 1877
               }
             },
             {
@@ -289,7 +289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:46:48.508Z",
+    "last_updated": "2026-08-24T04:55:18.661Z",
     "original_repository": "dag7dev/awesome-anbernic",
     "original_repository_id": 609091807,
     "original_repository_sha": "f5db978a31356553b1628f1badc7737116a4c977",
