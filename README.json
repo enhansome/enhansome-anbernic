@@ -151,7 +151,7 @@
                 "last_commit": "2026-08-21T03:23:05Z",
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1880
+                "stars": 1883
               }
             },
             {
@@ -166,7 +166,7 @@
                 "last_commit": "2026-03-16T03:15:47Z",
                 "owner": "fgl82",
                 "repo": "simplemenu",
-                "stars": 160
+                "stars": 161
               }
             }
           ],
@@ -188,7 +188,7 @@
                 "last_commit": "2024-02-03T12:11:12Z",
                 "owner": "christianhaitian",
                 "repo": "PortMaster",
-                "stars": 697
+                "stars": 698
               }
             },
             {
@@ -289,7 +289,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:30:01.758Z",
+    "last_updated": "2026-08-26T04:50:01.550Z",
     "original_repository": "dag7dev/awesome-anbernic",
     "original_repository_id": 609091807,
     "original_repository_sha": "f5db978a31356553b1628f1badc7737116a4c977",
