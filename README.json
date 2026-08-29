@@ -14,12 +14,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Another rockchip Operating System",
+                    "homepage": null,
                     "id": 311831714,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2025-08-01T02:15:46Z",
+                    "open_issues": 26,
                     "owner": "christianhaitian",
                     "repo": "arkos",
-                    "stars": 2150
+                    "stars": 2150,
+                    "topics": [
+                      "arkos",
+                      "chi",
+                      "console",
+                      "emulator",
+                      "gameforce",
+                      "handheld",
+                      "linux",
+                      "oga",
+                      "portable",
+                      "retroarch",
+                      "rg351m",
+                      "rg351mp",
+                      "rg351p",
+                      "rg351v",
+                      "rg353m",
+                      "rg353v",
+                      "rg503",
+                      "rgb10",
+                      "rk2020",
+                      "ubuntu"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
                 },
@@ -30,12 +56,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Handheld firmware optimized for the Anbernic RG351P/M/V/MP, RG552 and other compatible devices.",
+                    "homepage": "https://amberelec.org",
                     "id": 311159060,
                     "language": "Makefile",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-21T16:07:35Z",
+                    "open_issues": 1,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
-                    "stars": 1195
+                    "stars": 1195,
+                    "topics": [
+                      "d007",
+                      "emulation",
+                      "emulationstation",
+                      "r35s",
+                      "r36s",
+                      "retroarch",
+                      "rg351m",
+                      "rg351mp",
+                      "rg351p",
+                      "rg351v",
+                      "rg552",
+                      "rgb20s",
+                      "xu10"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
                 },
@@ -46,12 +91,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Home of the JELOS Linux distribution.",
+                    "homepage": null,
                     "id": 455890503,
                     "language": "Makefile",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-05-08T15:39:18Z",
+                    "open_issues": 1,
                     "owner": "JustEnoughLinuxOS",
                     "repo": "distribution",
-                    "stars": 948
+                    "stars": 948,
+                    "topics": [
+                      "air",
+                      "anbernic",
+                      "arm",
+                      "atarivcs",
+                      "ayaneo",
+                      "console",
+                      "emulation",
+                      "emulationstation",
+                      "emulator",
+                      "handheld",
+                      "just-enough-linux",
+                      "linux",
+                      "odroid",
+                      "odroid-go-ultra",
+                      "orange-pi-5",
+                      "portable",
+                      "powkiddy",
+                      "pro",
+                      "retroarch",
+                      "x86-64"
+                    ]
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
                 },
@@ -62,12 +133,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": null,
+                    "homepage": null,
                     "id": 395300467,
                     "language": "Shell",
+                    "license": null,
                     "last_commit": "2022-12-12T14:05:31Z",
+                    "open_issues": 17,
                     "owner": "eduardofilo",
                     "repo": "RG350_adam_image",
-                    "stars": 323
+                    "stars": 323,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
                 },
@@ -78,12 +154,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Home of the uOS Linux distribution.",
+                    "homepage": null,
                     "id": 579473279,
                     "language": "Makefile",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-06-25T03:11:29Z",
+                    "open_issues": 0,
                     "owner": "RetroGFX",
                     "repo": "UnofficialOS",
-                    "stars": 304
+                    "stars": 305,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
                 },
@@ -94,12 +175,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Upcoming OpenDingux Fork firmware for the RG350 from tonyjih",
+                    "homepage": "https://github.com/tonyjih/RG350_buildroot",
                     "id": 226388569,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2021-08-16T09:33:51Z",
+                    "open_issues": 0,
                     "owner": "Ninoh-FOX",
                     "repo": "RG350-ROGUE-CFW",
-                    "stars": 226
+                    "stars": 226,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
                 },
@@ -110,12 +196,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "MinUI is a focused custom launcher for the Anbernic RG35XX.",
+                    "homepage": "https://github.com/shauninman/MinUI",
                     "id": 605351307,
                     "language": "C",
+                    "license": null,
                     "last_commit": "2023-03-26T13:12:35Z",
+                    "open_issues": 0,
                     "owner": "shauninman",
                     "repo": "MinUI-Legacy-RG35XX",
-                    "stars": 225
+                    "stars": 225,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
                 }
@@ -138,12 +229,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A flexible emulator front-end supporting keyboardless navigation and custom system themes.",
+                "homepage": null,
                 "id": 5102117,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-07-15T10:00:14Z",
+                "open_issues": 555,
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2293
+                "stars": 2293,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
             },
@@ -154,12 +250,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Daijishō is a retro launcher that manages your retro games libraries. This repo is for assets and served as a main page.",
+                "homepage": null,
                 "id": 466666051,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-21T03:23:05Z",
+                "open_issues": 151,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1887
+                "stars": 1888,
+                "topics": [
+                  "android",
+                  "daijishou",
+                  "emulator-frontend",
+                  "emulator-launcher",
+                  "launcher"
+                ]
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
             },
@@ -170,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices",
+                "homepage": null,
                 "id": 199559355,
                 "language": "C",
+                "license": null,
                 "last_commit": "2026-03-16T03:15:47Z",
+                "open_issues": 27,
                 "owner": "fgl82",
                 "repo": "simplemenu",
-                "stars": 161
+                "stars": 161,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
             }
@@ -193,12 +305,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A simple tool that allows you to download various game ports that are available for 351Elec/AmberElec, ArkOS, JelOS, RetroOZ, TheRA, and UnofficialOS for the RK3326 and RK3566 devices  and the RG552.",
+                "homepage": null,
                 "id": 405195459,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-03T12:11:12Z",
+                "open_issues": 3,
                 "owner": "christianhaitian",
                 "repo": "PortMaster",
-                "stars": 699
+                "stars": 699,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
             },
@@ -209,12 +326,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Emulationstation theme gallery that links to themes that are compatible on small screen devices such as OGA, RGB10, RK2020, RG351p/m, and RG351v",
+                "homepage": null,
                 "id": 360673066,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-06-18T08:20:35Z",
+                "open_issues": 1,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
-                "stars": 278
+                "stars": 278,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
             },
@@ -225,12 +347,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "EmulationStation theme manager for small screen devices running ArkOS, TheRA, RetroOZ, JELOS, UnofficialOS or ROCKNIX",
+                "homepage": null,
                 "id": 359454670,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2026-04-12T12:30:06Z",
+                "open_issues": 2,
                 "owner": "JohnIrvine1433",
                 "repo": "ThemeMaster",
-                "stars": 160
+                "stars": 160,
+                "topics": [
+                  "anbernic",
+                  "arkos",
+                  "emulationstation",
+                  "gameforce",
+                  "jelos",
+                  "nostixos",
+                  "odroid-go",
+                  "powkiddy",
+                  "retrooz",
+                  "rk2020",
+                  "rocknix",
+                  "themes",
+                  "thera",
+                  "unofficialos"
+                ]
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
             },
@@ -241,12 +383,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "AnberPorts for Anbernic RG351P/M and RG351V running ArkOS, 351elec and The RA.",
+                "homepage": "https://github.com/sponsors/krishenriksen",
                 "id": 354846116,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2023-04-26T08:42:11Z",
+                "open_issues": 45,
                 "owner": "krishenriksen",
                 "repo": "AnberPorts",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "anbernic",
+                  "armbian",
+                  "games",
+                  "odroid",
+                  "rg351m",
+                  "rg351p",
+                  "rg351v",
+                  "rockchip"
+                ]
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
             }
@@ -270,12 +426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Project for activing FastROM on SNES games",
+                "homepage": null,
                 "id": 323790013,
                 "language": "Assembly",
+                "license": null,
                 "last_commit": "2022-01-04T14:21:55Z",
+                "open_issues": 2,
                 "owner": "VitorVilela7",
                 "repo": "fastrom",
-                "stars": 285
+                "stars": 285,
+                "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
             },
@@ -286,12 +447,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "⚠️Attention please! We need you help. We are building a list with every PSP game compatible with Anbernic's RG351P. Feel free to contibute and help this community grow!",
+                "homepage": null,
                 "id": 308876862,
                 "language": null,
+                "license": null,
                 "last_commit": "2021-01-18T20:38:43Z",
+                "open_issues": 0,
                 "owner": "jserodio",
                 "repo": "rg351p-ppsspp-settings",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "351elec",
+                  "emuelec",
+                  "ppsspp",
+                  "psp",
+                  "rg351p"
+                ]
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
             }
@@ -305,15 +477,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:32:03.545Z",
+    "last_updated": "2026-08-29T04:52:41.371Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Resources for Anbernic consoles (links, CFW...)",
+      "homepage": null,
       "id": 609091807,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-05-22T13:16:41Z",
+      "open_issues": 3,
       "owner": "dag7dev",
       "repo": "awesome-anbernic",
-      "stars": 156
+      "stars": 156,
+      "topics": [
+        "anbernic",
+        "awesome-list",
+        "awesome-lists",
+        "rg350",
+        "rg351m",
+        "rg351mp",
+        "rg351p",
+        "rg353",
+        "rg353v",
+        "rg353vs",
+        "rg35xx",
+        "rg503",
+        "rg552"
+      ]
     },
     "original_repository_sha": "f5db978a31356553b1628f1badc7737116a4c977",
     "enhanced_repository": "enhansome/enhansome-anbernic",

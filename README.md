@@ -216,7 +216,7 @@ General facts found while browsing:
   * RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP, RG503, WIN600
 * [Adam](https://github.com/eduardofilo/RG350_adam_image) ⚠️ Archived Custom firmware EmuStation for 350/350P, 280MV, 300X
   * RG350/M/P, RG280M/V, RG300X
-* [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 304 | 🐛 0 | 🌐 Makefile | 📅 2026-06-25  : JELOS fork. Retroarch + Emustation frontend
+* [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 305 | 🐛 0 | 🌐 Makefile | 📅 2026-06-25  : JELOS fork. Retroarch + Emustation frontend
   * RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP, RG503, WIN600
 * [RogueCFW](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW) ⭐ 226 | 🐛 0 | 🌐 Python | 📅 2021-08-16 Rogue CFW for RG350
   * RG350/M/P, RG280V/M, RG300X
@@ -249,7 +249,7 @@ General facts found while browsing:
 Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 * [EmulationStation](https://github.com/Aloshi/EmulationStation) ⭐ 2,293 | 🐛 555 | 🌐 C++ | 📅 2024-07-15: A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!
-* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,887 | 🐛 151 | 🌐 Python | 📅 2026-08-21: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
+* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,888 | 🐛 151 | 🌐 Python | 📅 2026-08-21: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
 * \[Opendingux] [SimpleMenu](https://github.com/fgl82/simplemenu/releases) ⭐ 161 | 🐛 27 | 🌐 C | 📅 2026-03-16:  Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices
 * \[Android] [Launchbox](https://www.launchbox-app.com/): box-art-based games database and launcher for DOSBox, emulators, arcade cabinets, and PC Games
 
@@ -273,7 +273,7 @@ Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 * [Emulationstation-OGA-Theme-Gallery](https://github.com/Jetup13/Emulationstation-OGA-Theme-Gallery) ⭐ 278 | 🐛 1 | 📅 2026-06-18: Emulationstation theme gallery that links to themes that are compatible on small screen devices such as OGA, OGS, Gameforce Chi, RGB10, RGB10MAX, RK2020, RG351p/m, RG351v, and RG503.
 
-* [ThemeMaster](https://github.com/JohnIrvine1433/ThemeMaster) ⭐ 160 | 🐛 2 | 🌐 Shell | 📅 2026-04-12 An EmulationStation theme manager for small screen devices running [ArkOS](https://github.com/christianhaitian/arkos) ⚠️ Archived, [RetroOZ](https://github.com/southoz/RetroOZ) ⭐ 59 | 🐛 39 | 📅 2022-12-22, [TheRA](https://techtoytinker.com/theretroarena), [JELOS](https://github.com/JustEnoughLinuxOS/distribution) ⚠️ Archived or [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 304 | 🐛 0 | 🌐 Makefile | 📅 2026-06-25.
+* [ThemeMaster](https://github.com/JohnIrvine1433/ThemeMaster) ⭐ 160 | 🐛 2 | 🌐 Shell | 📅 2026-04-12 An EmulationStation theme manager for small screen devices running [ArkOS](https://github.com/christianhaitian/arkos) ⚠️ Archived, [RetroOZ](https://github.com/southoz/RetroOZ) ⭐ 59 | 🐛 39 | 📅 2022-12-22, [TheRA](https://techtoytinker.com/theretroarena), [JELOS](https://github.com/JustEnoughLinuxOS/distribution) ⚠️ Archived or [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 305 | 🐛 0 | 🌐 Makefile | 📅 2026-06-25.
 
 * [AnberPorts](https://github.com/krishenriksen/AnberPorts) ⚠️ Archived: AnberPorts for Anbernic RG351P/M and RG351V running ArkOS, 351elec and The RA. The project is on hold, so it is advised to use **PortMaster**.
 
@@ -435,4 +435,4 @@ Titles have been aggregated from these links: [link1](https://www.reddit.com/r/E
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
