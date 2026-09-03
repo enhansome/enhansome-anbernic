@@ -255,11 +255,11 @@
                 "id": 466666051,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-21T03:23:05Z",
+                "last_commit": "2026-09-02T12:17:04Z",
                 "open_issues": 152,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1896,
+                "stars": 1897,
                 "topics": [
                   "android",
                   "daijishou",
@@ -435,7 +435,7 @@
                 "open_issues": 2,
                 "owner": "VitorVilela7",
                 "repo": "fastrom",
-                "stars": 285,
+                "stars": 286,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T08:42:53.950Z",
+    "last_updated": "2026-09-03T08:52:01.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
