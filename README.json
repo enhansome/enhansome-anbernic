@@ -238,7 +238,7 @@
                 "open_issues": 555,
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2293,
+                "stars": 2294,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T08:52:01.028Z",
+    "last_updated": "2026-09-04T08:47:09.974Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
