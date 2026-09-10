@@ -61,8 +61,8 @@
                     "id": 311159060,
                     "language": "Makefile",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-09T08:36:32Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-09-10T06:31:23Z",
+                    "open_issues": 2,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
                     "stars": 1195,
@@ -259,7 +259,7 @@
                 "open_issues": 151,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1900,
+                "stars": 1901,
                 "topics": [
                   "android",
                   "daijishou",
@@ -356,7 +356,7 @@
                 "open_issues": 2,
                 "owner": "JohnIrvine1433",
                 "repo": "ThemeMaster",
-                "stars": 160,
+                "stars": 161,
                 "topics": [
                   "anbernic",
                   "arkos",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T08:55:03.732Z",
+    "last_updated": "2026-09-10T08:53:40.547Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
