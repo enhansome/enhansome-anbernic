@@ -210,7 +210,7 @@ General facts found while browsing:
 
 * [ArkOS](https://github.com/christianhaitian/arkos/wiki) ⚠️ Archived : Retroarch + Emustation frontend
   * RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP
-* [AmberELEC](https://github.com/AmberELEC/AmberELEC) ⭐ 1,195 | 🐛 2 | 🌐 Makefile | 📅 2026-09-10: fork of EmuELEC which is based on CoreELEC, Lakka, and Batocera
+* [AmberELEC](https://github.com/AmberELEC/AmberELEC) ⭐ 1,196 | 🐛 1 | 🌐 Makefile | 📅 2026-09-10: fork of EmuELEC which is based on CoreELEC, Lakka, and Batocera
   * RG353P/M/V/VS/PS (planned), RG351P/M/V/MP, RG552,
 * [JELOS](https://github.com/JustEnoughLinuxOS/distribution) ⚠️ Archived: Uncertain support for Anbernic builds. See UnofficialOS for more…
   * RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP, RG503, WIN600
@@ -248,8 +248,8 @@ General facts found while browsing:
 
 Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
-* [EmulationStation](https://github.com/Aloshi/EmulationStation) ⭐ 2,295 | 🐛 555 | 🌐 C++ | 📅 2024-07-15: A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!
-* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,901 | 🐛 151 | 🌐 Python | 📅 2026-09-04: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
+* [EmulationStation](https://github.com/Aloshi/EmulationStation) ⭐ 2,296 | 🐛 555 | 🌐 C++ | 📅 2024-07-15: A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!
+* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,900 | 🐛 151 | 🌐 Python | 📅 2026-09-04: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
 * \[Opendingux] [SimpleMenu](https://github.com/fgl82/simplemenu/releases) ⭐ 161 | 🐛 27 | 🌐 C | 📅 2026-03-16:  Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices
 * \[Android] [Launchbox](https://www.launchbox-app.com/): box-art-based games database and launcher for DOSBox, emulators, arcade cabinets, and PC Games
 
@@ -435,4 +435,4 @@ Titles have been aggregated from these links: [link1](https://www.reddit.com/r/E
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
