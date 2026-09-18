@@ -218,10 +218,10 @@ General facts found while browsing:
   * RG350/M/P, RG280M/V, RG300X
 * [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 306 | 🐛 0 | 🌐 Makefile | 📅 2026-06-25  : JELOS fork. Retroarch + Emustation frontend
   * RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP, RG503, WIN600
-* [RogueCFW](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW) ⭐ 226 | 🐛 0 | 🌐 Python | 📅 2021-08-16 Rogue CFW for RG350
-  * RG350/M/P, RG280V/M, RG300X
 * [MinUI](https://github.com/shauninman/union-minui) ⚠️ Archived: Minimal frontend. minarch + libretro cores
   * RG35XX
+* [RogueCFW](https://github.com/Ninoh-FOX/RG350-ROGUE-CFW) ⭐ 225 | 🐛 0 | 🌐 Python | 📅 2021-08-16 Rogue CFW for RG350
+  * RG350/M/P, RG280V/M, RG300X
 * **Linux**: Stock firmware. Everything’s barely playable.
   * Supported on: RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP, RG503, RG552 (batocera), WIN600 (Linux or Win10 or SteamOS)
 * **Android** Stock: Android stock firmware
@@ -249,7 +249,7 @@ General facts found while browsing:
 Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 * [EmulationStation](https://github.com/Aloshi/EmulationStation) ⭐ 2,297 | 🐛 555 | 🌐 C++ | 📅 2024-07-15: A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!
-* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,905 | 🐛 151 | 🌐 Python | 📅 2026-09-16: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
+* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,910 | 🐛 151 | 🌐 Python | 📅 2026-09-16: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
 * \[Opendingux] [SimpleMenu](https://github.com/fgl82/simplemenu/releases) ⭐ 161 | 🐛 27 | 🌐 C | 📅 2026-03-16:  Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices
 * \[Android] [Launchbox](https://www.launchbox-app.com/): box-art-based games database and launcher for DOSBox, emulators, arcade cabinets, and PC Games
 
@@ -435,4 +435,4 @@ Titles have been aggregated from these links: [link1](https://www.reddit.com/r/E
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

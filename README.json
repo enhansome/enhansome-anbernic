@@ -170,27 +170,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "RogueCFW",
-                  "description": "Rogue CFW for RG350",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Upcoming OpenDingux Fork firmware for the RG350 from tonyjih",
-                    "homepage": "https://github.com/tonyjih/RG350_buildroot",
-                    "id": 226388569,
-                    "language": "Python",
-                    "license": null,
-                    "last_commit": "2021-08-16T09:33:51Z",
-                    "open_issues": 0,
-                    "owner": "Ninoh-FOX",
-                    "repo": "RG350-ROGUE-CFW",
-                    "stars": 226,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:32:03.545Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "MinUI",
                   "description": "Minimal frontend. minarch + libretro cores",
                   "children": [],
@@ -205,6 +184,27 @@
                     "open_issues": 0,
                     "owner": "shauninman",
                     "repo": "MinUI-Legacy-RG35XX",
+                    "stars": 225,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:32:03.545Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "RogueCFW",
+                  "description": "Rogue CFW for RG350",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Upcoming OpenDingux Fork firmware for the RG350 from tonyjih",
+                    "homepage": "https://github.com/tonyjih/RG350_buildroot",
+                    "id": 226388569,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2021-08-16T09:33:51Z",
+                    "open_issues": 0,
+                    "owner": "Ninoh-FOX",
+                    "repo": "RG350-ROGUE-CFW",
                     "stars": 225,
                     "topics": []
                   },
@@ -259,7 +259,7 @@
                 "open_issues": 151,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1905,
+                "stars": 1910,
                 "topics": [
                   "android",
                   "daijishou",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T09:22:39.343Z",
+    "last_updated": "2026-09-18T08:57:17.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
