@@ -61,8 +61,8 @@
                     "id": 311159060,
                     "language": "Makefile",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-21T05:04:26Z",
-                    "open_issues": 0,
+                    "last_commit": "2026-09-21T17:04:58Z",
+                    "open_issues": 1,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
                     "stars": 1197,
@@ -238,7 +238,7 @@
                 "open_issues": 555,
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2299,
+                "stars": 2300,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -255,11 +255,11 @@
                 "id": 466666051,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T07:17:05Z",
+                "last_commit": "2026-09-22T07:12:41Z",
                 "open_issues": 151,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1912,
+                "stars": 1913,
                 "topics": [
                   "android",
                   "daijishou",
@@ -431,7 +431,7 @@
                 "id": 323790013,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2022-01-04T14:21:55Z",
+                "last_commit": "2026-09-21T20:16:50Z",
                 "open_issues": 2,
                 "owner": "VitorVilela7",
                 "repo": "fastrom",
@@ -477,7 +477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T09:50:55.588Z",
+    "last_updated": "2026-09-22T09:14:31.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
