@@ -56,7 +56,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Handheld firmware optimized for the Anbernic RG351P/M/V/MP, RG552 and other compatible devices.",
+                    "description": "Handheld firmware optimized for the Anbernic RG35, RG351P/M/V/MP, RG552 and other compatible devices.",
                     "homepage": "https://amberelec.org",
                     "id": 311159060,
                     "language": "Makefile",
@@ -73,6 +73,7 @@
                       "r35s",
                       "r36s",
                       "retroarch",
+                      "rg35",
                       "rg351m",
                       "rg351mp",
                       "rg351p",
@@ -259,7 +260,7 @@
                 "open_issues": 151,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1913,
+                "stars": 1916,
                 "topics": [
                   "android",
                   "daijishou",
@@ -431,11 +432,11 @@
                 "id": 323790013,
                 "language": "Assembly",
                 "license": null,
-                "last_commit": "2026-09-21T20:16:50Z",
+                "last_commit": "2026-09-22T13:18:32Z",
                 "open_issues": 2,
                 "owner": "VitorVilela7",
                 "repo": "fastrom",
-                "stars": 288,
+                "stars": 290,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -477,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T09:14:31.213Z",
+    "last_updated": "2026-09-23T09:14:51.601Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",

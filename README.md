@@ -249,7 +249,7 @@ General facts found while browsing:
 Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 * [EmulationStation](https://github.com/Aloshi/EmulationStation) ⭐ 2,300 | 🐛 555 | 🌐 C++ | 📅 2024-07-15: A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!
-* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,913 | 🐛 151 | 🌐 Python | 📅 2026-09-22: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
+* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,916 | 🐛 151 | 🌐 Python | 📅 2026-09-22: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
 * \[Opendingux] [SimpleMenu](https://github.com/fgl82/simplemenu/releases) ⭐ 161 | 🐛 27 | 🌐 C | 📅 2026-03-16:  Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices
 * \[Android] [Launchbox](https://www.launchbox-app.com/): box-art-based games database and launcher for DOSBox, emulators, arcade cabinets, and PC Games
 
@@ -300,7 +300,7 @@ Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 ## Useful links
 
-* [SNES Fastrom patches](https://docs.google.com/spreadsheets/d/1gUB4N0-tM7Ln-9ZMwkp_T7bwb4tDAMI6ciioYMxXzSk/edit#gid=0) - [more info on FastROM project](https://github.com/VitorVilela7/fastrom) ⭐ 288 | 🐛 2 | 🌐 Assembly | 📅 2026-09-21
+* [SNES Fastrom patches](https://docs.google.com/spreadsheets/d/1gUB4N0-tM7Ln-9ZMwkp_T7bwb4tDAMI6ciioYMxXzSk/edit#gid=0) - [more info on FastROM project](https://github.com/VitorVilela7/fastrom) ⭐ 290 | 🐛 2 | 🌐 Assembly | 📅 2026-09-22
 * \[RG351P] [RG351P PPSSPP Settings and Compatibility List](https://github.com/jserodio/rg351p-ppsspp-settings) ⚠️ Archived
 * [Retrosizer](https://retrosizer.com/) compare the size of handheld devices and see how certain systems will appear on their screens. You can drag the devices and rotate them etc. (controllers too)
 * [Google Sheet with technical specs about other consoles](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/edit?usp=drivesdk)
@@ -435,4 +435,4 @@ Titles have been aggregated from these links: [link1](https://www.reddit.com/r/E
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
