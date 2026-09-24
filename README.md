@@ -210,7 +210,7 @@ General facts found while browsing:
 
 * [ArkOS](https://github.com/christianhaitian/arkos/wiki) ⚠️ Archived : Retroarch + Emustation frontend
   * RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP
-* [AmberELEC](https://github.com/AmberELEC/AmberELEC) ⭐ 1,197 | 🐛 1 | 🌐 Makefile | 📅 2026-09-21: fork of EmuELEC which is based on CoreELEC, Lakka, and Batocera
+* [AmberELEC](https://github.com/AmberELEC/AmberELEC) ⭐ 1,197 | 🐛 0 | 🌐 Makefile | 📅 2026-09-24: fork of EmuELEC which is based on CoreELEC, Lakka, and Batocera
   * RG353P/M/V/VS/PS (planned), RG351P/M/V/MP, RG552,
 * [JELOS](https://github.com/JustEnoughLinuxOS/distribution) ⚠️ Archived: Uncertain support for Anbernic builds. See UnofficialOS for more…
   * RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP, RG503, WIN600
@@ -248,8 +248,8 @@ General facts found while browsing:
 
 Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
-* [EmulationStation](https://github.com/Aloshi/EmulationStation) ⭐ 2,300 | 🐛 555 | 🌐 C++ | 📅 2024-07-15: A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!
-* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,916 | 🐛 151 | 🌐 Python | 📅 2026-09-22: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
+* [EmulationStation](https://github.com/Aloshi/EmulationStation) ⭐ 2,294 | 🐛 555 | 🌐 C++ | 📅 2024-07-15: A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!
+* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,918 | 🐛 151 | 🌐 Python | 📅 2026-09-22: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
 * \[Opendingux] [SimpleMenu](https://github.com/fgl82/simplemenu/releases) ⭐ 161 | 🐛 27 | 🌐 C | 📅 2026-03-16:  Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices
 * \[Android] [Launchbox](https://www.launchbox-app.com/): box-art-based games database and launcher for DOSBox, emulators, arcade cabinets, and PC Games
 
@@ -269,7 +269,7 @@ Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 ## Tools
 
-* [PortMaster](https://github.com/christianhaitian/PortMaster) ⭐ 702 | 🐛 3 | 🌐 Python | 📅 2024-02-03: A simple tool that allows you to download various game ports that are available for 351Elec/AmberElec, ArkOS, JelOS, RetroOZ, TheRA, and UnofficialOS for the RK3326 and RK3566 devices and the RG552.
+* [PortMaster](https://github.com/christianhaitian/PortMaster) ⭐ 703 | 🐛 3 | 🌐 Python | 📅 2024-02-03: A simple tool that allows you to download various game ports that are available for 351Elec/AmberElec, ArkOS, JelOS, RetroOZ, TheRA, and UnofficialOS for the RK3326 and RK3566 devices and the RG552.
 
 * [Emulationstation-OGA-Theme-Gallery](https://github.com/Jetup13/Emulationstation-OGA-Theme-Gallery) ⭐ 280 | 🐛 1 | 📅 2026-06-18: Emulationstation theme gallery that links to themes that are compatible on small screen devices such as OGA, OGS, Gameforce Chi, RGB10, RGB10MAX, RK2020, RG351p/m, RG351v, and RG503.
 
@@ -300,7 +300,7 @@ Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 ## Useful links
 
-* [SNES Fastrom patches](https://docs.google.com/spreadsheets/d/1gUB4N0-tM7Ln-9ZMwkp_T7bwb4tDAMI6ciioYMxXzSk/edit#gid=0) - [more info on FastROM project](https://github.com/VitorVilela7/fastrom) ⭐ 290 | 🐛 2 | 🌐 Assembly | 📅 2026-09-22
+* [SNES Fastrom patches](https://docs.google.com/spreadsheets/d/1gUB4N0-tM7Ln-9ZMwkp_T7bwb4tDAMI6ciioYMxXzSk/edit#gid=0) - [more info on FastROM project](https://github.com/VitorVilela7/fastrom) ⭐ 291 | 🐛 2 | 🌐 Assembly | 📅 2026-09-22
 * \[RG351P] [RG351P PPSSPP Settings and Compatibility List](https://github.com/jserodio/rg351p-ppsspp-settings) ⚠️ Archived
 * [Retrosizer](https://retrosizer.com/) compare the size of handheld devices and see how certain systems will appear on their screens. You can drag the devices and rotate them etc. (controllers too)
 * [Google Sheet with technical specs about other consoles](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/edit?usp=drivesdk)
@@ -435,4 +435,4 @@ Titles have been aggregated from these links: [link1](https://www.reddit.com/r/E
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
