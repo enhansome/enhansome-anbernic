@@ -249,7 +249,7 @@ General facts found while browsing:
 Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 * [EmulationStation](https://github.com/Aloshi/EmulationStation) ⭐ 2,296 | 🐛 555 | 🌐 C++ | 📅 2024-07-15: A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!
-* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,923 | 🐛 152 | 🌐 Python | 📅 2026-09-22: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
+* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,925 | 🐛 152 | 🌐 Python | 📅 2026-09-22: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
 * \[Opendingux] [SimpleMenu](https://github.com/fgl82/simplemenu/releases) ⭐ 161 | 🐛 27 | 🌐 C | 📅 2026-03-16:  Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices
 * \[Android] [Launchbox](https://www.launchbox-app.com/): box-art-based games database and launcher for DOSBox, emulators, arcade cabinets, and PC Games
 
@@ -273,7 +273,7 @@ Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 * [Emulationstation-OGA-Theme-Gallery](https://github.com/Jetup13/Emulationstation-OGA-Theme-Gallery) ⭐ 280 | 🐛 1 | 📅 2026-06-18: Emulationstation theme gallery that links to themes that are compatible on small screen devices such as OGA, OGS, Gameforce Chi, RGB10, RGB10MAX, RK2020, RG351p/m, RG351v, and RG503.
 
-* [ThemeMaster](https://github.com/JohnIrvine1433/ThemeMaster) ⭐ 161 | 🐛 2 | 🌐 Shell | 📅 2026-04-12 An EmulationStation theme manager for small screen devices running [ArkOS](https://github.com/christianhaitian/arkos) ⚠️ Archived, [RetroOZ](https://github.com/southoz/RetroOZ) ⭐ 59 | 🐛 39 | 📅 2022-12-22, [TheRA](https://techtoytinker.com/theretroarena), [JELOS](https://github.com/JustEnoughLinuxOS/distribution) ⚠️ Archived or [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 307 | 🐛 0 | 🌐 Makefile | 📅 2026-06-25.
+* [ThemeMaster](https://github.com/JohnIrvine1433/ThemeMaster) ⭐ 162 | 🐛 2 | 🌐 Shell | 📅 2026-04-12 An EmulationStation theme manager for small screen devices running [ArkOS](https://github.com/christianhaitian/arkos) ⚠️ Archived, [RetroOZ](https://github.com/southoz/RetroOZ) ⭐ 59 | 🐛 39 | 📅 2022-12-22, [TheRA](https://techtoytinker.com/theretroarena), [JELOS](https://github.com/JustEnoughLinuxOS/distribution) ⚠️ Archived or [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 307 | 🐛 0 | 🌐 Makefile | 📅 2026-06-25.
 
 * [AnberPorts](https://github.com/krishenriksen/AnberPorts) ⚠️ Archived: AnberPorts for Anbernic RG351P/M and RG351V running ArkOS, 351elec and The RA. The project is on hold, so it is advised to use **PortMaster**.
 
@@ -300,7 +300,7 @@ Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 ## Useful links
 
-* [SNES Fastrom patches](https://docs.google.com/spreadsheets/d/1gUB4N0-tM7Ln-9ZMwkp_T7bwb4tDAMI6ciioYMxXzSk/edit#gid=0) - [more info on FastROM project](https://github.com/VitorVilela7/fastrom) ⭐ 291 | 🐛 2 | 🌐 Assembly | 📅 2026-09-22
+* [SNES Fastrom patches](https://docs.google.com/spreadsheets/d/1gUB4N0-tM7Ln-9ZMwkp_T7bwb4tDAMI6ciioYMxXzSk/edit#gid=0) - [more info on FastROM project](https://github.com/VitorVilela7/fastrom) ⭐ 297 | 🐛 2 | 🌐 Assembly | 📅 2026-09-22
 * \[RG351P] [RG351P PPSSPP Settings and Compatibility List](https://github.com/jserodio/rg351p-ppsspp-settings) ⚠️ Archived
 * [Retrosizer](https://retrosizer.com/) compare the size of handheld devices and see how certain systems will appear on their screens. You can drag the devices and rotate them etc. (controllers too)
 * [Google Sheet with technical specs about other consoles](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/edit?usp=drivesdk)
@@ -435,4 +435,4 @@ Titles have been aggregated from these links: [link1](https://www.reddit.com/r/E
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
