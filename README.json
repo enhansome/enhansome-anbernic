@@ -23,7 +23,7 @@
                     "open_issues": 26,
                     "owner": "christianhaitian",
                     "repo": "arkos",
-                    "stars": 2151,
+                    "stars": 2150,
                     "topics": [
                       "arkos",
                       "chi",
@@ -65,7 +65,7 @@
                     "open_issues": 0,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
-                    "stars": 1200,
+                    "stars": 1198,
                     "topics": [
                       "d007",
                       "emulation",
@@ -239,7 +239,7 @@
                 "open_issues": 555,
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2296,
+                "stars": 2295,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -260,7 +260,7 @@
                 "open_issues": 152,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1927,
+                "stars": 1928,
                 "topics": [
                   "android",
                   "daijishou",
@@ -436,7 +436,7 @@
                 "open_issues": 2,
                 "owner": "VitorVilela7",
                 "repo": "fastrom",
-                "stars": 301,
+                "stars": 302,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -444,7 +444,7 @@
             {
               "node_type": "item",
               "title": "[RG351P] RG351P PPSSPP Settings and Compatibility List",
-              "description": null,
+              "description": "jserodio/rg351p-ppsspp-settings",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T10:26:19.683Z",
+    "last_updated": "2026-10-03T04:31:36.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
