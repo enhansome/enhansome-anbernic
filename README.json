@@ -65,7 +65,7 @@
                     "open_issues": 0,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
-                    "stars": 1198,
+                    "stars": 1199,
                     "topics": [
                       "d007",
                       "emulation",
@@ -257,7 +257,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-22T07:12:41Z",
-                "open_issues": 152,
+                "open_issues": 153,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
                 "stars": 1928,
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:31:36.452Z",
+    "last_updated": "2026-10-03T09:48:12.179Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
