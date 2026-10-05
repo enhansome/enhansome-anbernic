@@ -23,7 +23,7 @@
                     "open_issues": 26,
                     "owner": "christianhaitian",
                     "repo": "arkos",
-                    "stars": 2150,
+                    "stars": 2151,
                     "topics": [
                       "arkos",
                       "chi",
@@ -101,7 +101,7 @@
                     "open_issues": 1,
                     "owner": "JustEnoughLinuxOS",
                     "repo": "distribution",
-                    "stars": 947,
+                    "stars": 946,
                     "topics": [
                       "air",
                       "anbernic",
@@ -239,7 +239,7 @@
                 "open_issues": 555,
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2296,
+                "stars": 2294,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -257,10 +257,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-22T07:12:41Z",
-                "open_issues": 153,
+                "open_issues": 154,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1931,
+                "stars": 1929,
                 "topics": [
                   "android",
                   "daijishou",
@@ -436,7 +436,7 @@
                 "open_issues": 2,
                 "owner": "VitorVilela7",
                 "repo": "fastrom",
-                "stars": 302,
+                "stars": 301,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T10:31:25.015Z",
+    "last_updated": "2026-10-05T11:21:59.525Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
