@@ -23,7 +23,7 @@
                     "open_issues": 26,
                     "owner": "christianhaitian",
                     "repo": "arkos",
-                    "stars": 2150,
+                    "stars": 2151,
                     "topics": [
                       "arkos",
                       "chi",
@@ -260,7 +260,7 @@
                 "open_issues": 153,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1930,
+                "stars": 1929,
                 "topics": [
                   "android",
                   "daijishou",
@@ -478,7 +478,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T10:59:41.439Z",
+    "last_updated": "2026-10-08T11:16:50.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
