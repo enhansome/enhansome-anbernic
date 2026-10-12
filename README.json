@@ -20,7 +20,7 @@
                     "language": "Shell",
                     "license": "MIT",
                     "last_commit": "2025-08-01T02:15:46Z",
-                    "open_issues": 26,
+                    "open_issues": 25,
                     "owner": "christianhaitian",
                     "repo": "arkos",
                     "stars": 2151,
@@ -56,7 +56,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Handheld firmware optimized for the Anbernic RG35, RG351P/M/V/MP, RG552 and other compatible devices.",
+                    "description": "Handheld firmware optimized for the Anbernic RG35, RG351P/M/V/MP, RG552, RG353P/M/V and other compatible devices.",
                     "homepage": "https://amberelec.org",
                     "id": 311159060,
                     "language": "Makefile",
@@ -78,6 +78,9 @@
                       "rg351mp",
                       "rg351p",
                       "rg351v",
+                      "rg353m",
+                      "rg353p",
+                      "rg353v",
                       "rg552",
                       "rgb20s",
                       "xu10"
@@ -256,11 +259,11 @@
                 "id": 466666051,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-22T07:12:41Z",
+                "last_commit": "2026-10-11T22:56:53Z",
                 "open_issues": 153,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1932,
+                "stars": 1933,
                 "topics": [
                   "android",
                   "daijishou",
@@ -287,7 +290,7 @@
                 "open_issues": 27,
                 "owner": "fgl82",
                 "repo": "simplemenu",
-                "stars": 161,
+                "stars": 160,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -315,7 +318,7 @@
                 "open_issues": 3,
                 "owner": "christianhaitian",
                 "repo": "PortMaster",
-                "stars": 705,
+                "stars": 706,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -336,7 +339,7 @@
                 "open_issues": 1,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
-                "stars": 283,
+                "stars": 282,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -478,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T10:45:04.290Z",
+    "last_updated": "2026-10-12T11:51:08.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
