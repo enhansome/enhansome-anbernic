@@ -61,11 +61,11 @@
                     "id": 311159060,
                     "language": "Makefile",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-11T10:24:33Z",
-                    "open_issues": 1,
+                    "last_commit": "2026-10-13T10:39:35Z",
+                    "open_issues": 0,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
-                    "stars": 1203,
+                    "stars": 1202,
                     "topics": [
                       "d007",
                       "emulation",
@@ -146,7 +146,7 @@
                     "open_issues": 17,
                     "owner": "eduardofilo",
                     "repo": "RG350_adam_image",
-                    "stars": 323,
+                    "stars": 322,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
@@ -164,7 +164,7 @@
                     "language": "Makefile",
                     "license": "NOASSERTION",
                     "last_commit": "2026-06-25T03:11:29Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "RetroGFX",
                     "repo": "UnofficialOS",
                     "stars": 308,
@@ -242,7 +242,7 @@
                 "open_issues": 555,
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2294,
+                "stars": 2293,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -263,7 +263,7 @@
                 "open_issues": 153,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1933,
+                "stars": 1936,
                 "topics": [
                   "android",
                   "daijishou",
@@ -339,7 +339,7 @@
                 "open_issues": 1,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
-                "stars": 282,
+                "stars": 281,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -439,7 +439,7 @@
                 "open_issues": 2,
                 "owner": "VitorVilela7",
                 "repo": "fastrom",
-                "stars": 302,
+                "stars": 303,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -481,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T11:51:08.742Z",
+    "last_updated": "2026-10-13T11:39:51.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
