@@ -62,7 +62,7 @@
                     "language": "Makefile",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-16T06:09:32Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
                     "stars": 1202,
@@ -242,7 +242,7 @@
                 "open_issues": 555,
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2294,
+                "stars": 2295,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -259,7 +259,7 @@
                 "id": 466666051,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T06:12:28Z",
+                "last_commit": "2026-10-17T02:46:53Z",
                 "open_issues": 154,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
@@ -339,7 +339,7 @@
                 "open_issues": 1,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
-                "stars": 283,
+                "stars": 284,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -481,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T08:57:03.879Z",
+    "last_updated": "2026-10-17T08:28:59.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
