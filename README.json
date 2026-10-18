@@ -61,8 +61,8 @@
                     "id": 311159060,
                     "language": "Makefile",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-16T06:09:32Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-17T20:10:27Z",
+                    "open_issues": 1,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
                     "stars": 1202,
@@ -242,7 +242,7 @@
                 "open_issues": 555,
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2295,
+                "stars": 2296,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -481,7 +481,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T08:28:59.600Z",
+    "last_updated": "2026-10-18T08:47:06.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
