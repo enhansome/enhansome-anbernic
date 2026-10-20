@@ -61,7 +61,7 @@
                     "id": 311159060,
                     "language": "Makefile",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-19T09:43:28Z",
+                    "last_commit": "2026-10-19T18:32:08Z",
                     "open_issues": 0,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
@@ -168,7 +168,7 @@
                     "open_issues": 1,
                     "owner": "RetroGFX",
                     "repo": "UnofficialOS",
-                    "stars": 308,
+                    "stars": 309,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
@@ -264,7 +264,7 @@
                 "open_issues": 155,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1942,
+                "stars": 1945,
                 "topics": [
                   "android",
                   "daijishou",
@@ -319,7 +319,7 @@
                 "open_issues": 3,
                 "owner": "christianhaitian",
                 "repo": "PortMaster",
-                "stars": 706,
+                "stars": 707,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -361,7 +361,7 @@
                 "open_issues": 2,
                 "owner": "JohnIrvine1433",
                 "repo": "ThemeMaster",
-                "stars": 164,
+                "stars": 165,
                 "topics": [
                   "anbernic",
                   "arkos",
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T09:47:58.969Z",
+    "last_updated": "2026-10-20T09:21:05.400Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
