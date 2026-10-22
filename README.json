@@ -264,7 +264,7 @@
                 "open_issues": 155,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1947,
+                "stars": 1951,
                 "topics": [
                   "android",
                   "daijishou",
@@ -337,7 +337,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-06-18T08:20:35Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
                 "stars": 285,
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T09:17:33.943Z",
+    "last_updated": "2026-10-22T09:20:17.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
