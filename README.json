@@ -65,7 +65,7 @@
                     "open_issues": 0,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
-                    "stars": 1202,
+                    "stars": 1204,
                     "topics": [
                       "d007",
                       "emulation",
@@ -168,7 +168,7 @@
                     "open_issues": 1,
                     "owner": "RetroGFX",
                     "repo": "UnofficialOS",
-                    "stars": 309,
+                    "stars": 310,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
@@ -264,7 +264,7 @@
                 "open_issues": 155,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1951,
+                "stars": 1954,
                 "topics": [
                   "android",
                   "daijishou",
@@ -340,7 +340,7 @@
                 "open_issues": 2,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
-                "stars": 285,
+                "stars": 286,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T09:20:17.193Z",
+    "last_updated": "2026-10-23T09:15:58.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
