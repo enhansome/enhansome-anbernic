@@ -23,7 +23,7 @@
                     "open_issues": 25,
                     "owner": "christianhaitian",
                     "repo": "arkos",
-                    "stars": 2152,
+                    "stars": 2150,
                     "topics": [
                       "arkos",
                       "chi",
@@ -105,7 +105,7 @@
                     "open_issues": 1,
                     "owner": "JustEnoughLinuxOS",
                     "repo": "distribution",
-                    "stars": 946,
+                    "stars": 947,
                     "topics": [
                       "air",
                       "anbernic",
@@ -260,7 +260,7 @@
                 "id": 466666051,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-24T02:25:26Z",
+                "last_commit": "2026-10-25T06:58:14Z",
                 "open_issues": 155,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
@@ -336,8 +336,8 @@
                 "id": 360673066,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-06-18T08:20:35Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-24T20:38:23Z",
+                "open_issues": 1,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
                 "stars": 286,
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T08:48:32.400Z",
+    "last_updated": "2026-10-25T09:05:08.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
