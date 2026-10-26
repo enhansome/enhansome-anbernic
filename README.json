@@ -61,7 +61,7 @@
                     "id": 311159060,
                     "language": "Makefile",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-20T16:26:54Z",
+                    "last_commit": "2026-10-25T18:49:42Z",
                     "open_issues": 0,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
@@ -243,7 +243,7 @@
                 "open_issues": 554,
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2296,
+                "stars": 2295,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -264,7 +264,7 @@
                 "open_issues": 155,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1957,
+                "stars": 1959,
                 "topics": [
                   "android",
                   "daijishou",
@@ -440,7 +440,7 @@
                 "open_issues": 2,
                 "owner": "VitorVilela7",
                 "repo": "fastrom",
-                "stars": 303,
+                "stars": 304,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T09:05:08.301Z",
+    "last_updated": "2026-10-26T10:00:22.536Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
