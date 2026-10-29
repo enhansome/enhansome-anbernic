@@ -264,7 +264,7 @@
                 "open_issues": 155,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1964,
+                "stars": 1966,
                 "topics": [
                   "android",
                   "daijishou",
@@ -319,7 +319,7 @@
                 "open_issues": 3,
                 "owner": "christianhaitian",
                 "repo": "PortMaster",
-                "stars": 707,
+                "stars": 708,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T10:29:44.480Z",
+    "last_updated": "2026-10-29T10:49:49.762Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
