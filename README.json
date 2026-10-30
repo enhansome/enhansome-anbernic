@@ -65,7 +65,7 @@
                     "open_issues": 1,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
-                    "stars": 1203,
+                    "stars": 1202,
                     "topics": [
                       "d007",
                       "emulation",
@@ -243,7 +243,7 @@
                 "open_issues": 554,
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2296,
+                "stars": 2297,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -260,7 +260,7 @@
                 "id": 466666051,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-28T06:23:22Z",
+                "last_commit": "2026-10-30T03:07:05Z",
                 "open_issues": 155,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
@@ -319,7 +319,7 @@
                 "open_issues": 3,
                 "owner": "christianhaitian",
                 "repo": "PortMaster",
-                "stars": 708,
+                "stars": 709,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -336,8 +336,8 @@
                 "id": 360673066,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-24T20:38:23Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-30T06:28:50Z",
+                "open_issues": 0,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
                 "stars": 286,
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T10:49:49.762Z",
+    "last_updated": "2026-10-30T10:48:34.097Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
