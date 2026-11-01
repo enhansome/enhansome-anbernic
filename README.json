@@ -62,10 +62,10 @@
                     "language": "Makefile",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-27T14:51:58Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
-                    "stars": 1202,
+                    "stars": 1203,
                     "topics": [
                       "d007",
                       "emulation",
@@ -105,7 +105,7 @@
                     "open_issues": 1,
                     "owner": "JustEnoughLinuxOS",
                     "repo": "distribution",
-                    "stars": 947,
+                    "stars": 946,
                     "topics": [
                       "air",
                       "anbernic",
@@ -243,7 +243,7 @@
                 "open_issues": 554,
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2297,
+                "stars": 2298,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -264,7 +264,7 @@
                 "open_issues": 155,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1966,
+                "stars": 1968,
                 "topics": [
                   "android",
                   "daijishou",
@@ -319,7 +319,7 @@
                 "open_issues": 3,
                 "owner": "christianhaitian",
                 "repo": "PortMaster",
-                "stars": 709,
+                "stars": 708,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -340,7 +340,7 @@
                 "open_issues": 0,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
-                "stars": 285,
+                "stars": 286,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -361,7 +361,7 @@
                 "open_issues": 2,
                 "owner": "JohnIrvine1433",
                 "repo": "ThemeMaster",
-                "stars": 166,
+                "stars": 167,
                 "topics": [
                   "anbernic",
                   "arkos",
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T10:18:23.903Z",
+    "last_updated": "2026-11-01T11:12:04.524Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
