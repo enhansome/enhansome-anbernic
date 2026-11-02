@@ -23,7 +23,7 @@
                     "open_issues": 25,
                     "owner": "christianhaitian",
                     "repo": "arkos",
-                    "stars": 2151,
+                    "stars": 2152,
                     "topics": [
                       "arkos",
                       "chi",
@@ -65,7 +65,7 @@
                     "open_issues": 2,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
-                    "stars": 1203,
+                    "stars": 1202,
                     "topics": [
                       "d007",
                       "emulation",
@@ -243,7 +243,7 @@
                 "open_issues": 554,
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2298,
+                "stars": 2297,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -264,7 +264,7 @@
                 "open_issues": 155,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1968,
+                "stars": 1969,
                 "topics": [
                   "android",
                   "daijishou",
@@ -440,7 +440,7 @@
                 "open_issues": 2,
                 "owner": "VitorVilela7",
                 "repo": "fastrom",
-                "stars": 304,
+                "stars": 305,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T11:12:04.524Z",
+    "last_updated": "2026-11-02T12:14:29.800Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
