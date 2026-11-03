@@ -105,7 +105,7 @@
                     "open_issues": 1,
                     "owner": "JustEnoughLinuxOS",
                     "repo": "distribution",
-                    "stars": 946,
+                    "stars": 945,
                     "topics": [
                       "air",
                       "anbernic",
@@ -264,7 +264,7 @@
                 "open_issues": 155,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1969,
+                "stars": 1970,
                 "topics": [
                   "android",
                   "daijishou",
@@ -319,7 +319,7 @@
                 "open_issues": 3,
                 "owner": "christianhaitian",
                 "repo": "PortMaster",
-                "stars": 708,
+                "stars": 707,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -361,7 +361,7 @@
                 "open_issues": 2,
                 "owner": "JohnIrvine1433",
                 "repo": "ThemeMaster",
-                "stars": 167,
+                "stars": 168,
                 "topics": [
                   "anbernic",
                   "arkos",
@@ -394,7 +394,7 @@
                 "language": "Shell",
                 "license": "MIT",
                 "last_commit": "2023-04-26T08:42:11Z",
-                "open_issues": 45,
+                "open_issues": 44,
                 "owner": "krishenriksen",
                 "repo": "AnberPorts",
                 "stars": 103,
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T12:14:29.800Z",
+    "last_updated": "2026-11-03T11:49:23.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
