@@ -340,7 +340,7 @@
                 "open_issues": 0,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
-                "stars": 287,
+                "stars": 288,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -361,7 +361,7 @@
                 "open_issues": 2,
                 "owner": "JohnIrvine1433",
                 "repo": "ThemeMaster",
-                "stars": 168,
+                "stars": 169,
                 "topics": [
                   "anbernic",
                   "arkos",
@@ -437,10 +437,10 @@
                 "language": "Assembly",
                 "license": null,
                 "last_commit": "2026-10-01T16:50:53Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "VitorVilela7",
                 "repo": "fastrom",
-                "stars": 305,
+                "stars": 304,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T11:59:02.090Z",
+    "last_updated": "2026-11-07T10:58:44.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",

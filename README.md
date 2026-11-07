@@ -271,9 +271,9 @@ Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 * [PortMaster](https://github.com/christianhaitian/PortMaster) ⭐ 707 | 🐛 3 | 🌐 Python | 📅 2024-02-03: A simple tool that allows you to download various game ports that are available for 351Elec/AmberElec, ArkOS, JelOS, RetroOZ, TheRA, and UnofficialOS for the RK3326 and RK3566 devices and the RG552.
 
-* [Emulationstation-OGA-Theme-Gallery](https://github.com/Jetup13/Emulationstation-OGA-Theme-Gallery) ⭐ 287 | 🐛 0 | 📅 2026-10-30: Emulationstation theme gallery that links to themes that are compatible on small screen devices such as OGA, OGS, Gameforce Chi, RGB10, RGB10MAX, RK2020, RG351p/m, RG351v, and RG503.
+* [Emulationstation-OGA-Theme-Gallery](https://github.com/Jetup13/Emulationstation-OGA-Theme-Gallery) ⭐ 288 | 🐛 0 | 📅 2026-10-30: Emulationstation theme gallery that links to themes that are compatible on small screen devices such as OGA, OGS, Gameforce Chi, RGB10, RGB10MAX, RK2020, RG351p/m, RG351v, and RG503.
 
-* [ThemeMaster](https://github.com/JohnIrvine1433/ThemeMaster) ⭐ 168 | 🐛 2 | 🌐 Shell | 📅 2026-04-12 An EmulationStation theme manager for small screen devices running [ArkOS](https://github.com/christianhaitian/arkos) ⚠️ Archived, [RetroOZ](https://github.com/southoz/RetroOZ) ⭐ 59 | 🐛 39 | 📅 2022-12-22, [TheRA](https://techtoytinker.com/theretroarena), [JELOS](https://github.com/JustEnoughLinuxOS/distribution) ⚠️ Archived or [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 310 | 🐛 1 | 🌐 Makefile | 📅 2026-06-25.
+* [ThemeMaster](https://github.com/JohnIrvine1433/ThemeMaster) ⭐ 169 | 🐛 2 | 🌐 Shell | 📅 2026-04-12 An EmulationStation theme manager for small screen devices running [ArkOS](https://github.com/christianhaitian/arkos) ⚠️ Archived, [RetroOZ](https://github.com/southoz/RetroOZ) ⭐ 59 | 🐛 39 | 📅 2022-12-22, [TheRA](https://techtoytinker.com/theretroarena), [JELOS](https://github.com/JustEnoughLinuxOS/distribution) ⚠️ Archived or [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 310 | 🐛 1 | 🌐 Makefile | 📅 2026-06-25.
 
 * [AnberPorts](https://github.com/krishenriksen/AnberPorts) ⚠️ Archived: AnberPorts for Anbernic RG351P/M and RG351V running ArkOS, 351elec and The RA. The project is on hold, so it is advised to use **PortMaster**.
 
@@ -300,7 +300,7 @@ Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 ## Useful links
 
-* [SNES Fastrom patches](https://docs.google.com/spreadsheets/d/1gUB4N0-tM7Ln-9ZMwkp_T7bwb4tDAMI6ciioYMxXzSk/edit#gid=0) - [more info on FastROM project](https://github.com/VitorVilela7/fastrom) ⭐ 305 | 🐛 2 | 🌐 Assembly | 📅 2026-10-01
+* [SNES Fastrom patches](https://docs.google.com/spreadsheets/d/1gUB4N0-tM7Ln-9ZMwkp_T7bwb4tDAMI6ciioYMxXzSk/edit#gid=0) - [more info on FastROM project](https://github.com/VitorVilela7/fastrom) ⭐ 304 | 🐛 3 | 🌐 Assembly | 📅 2026-10-01
 * \[RG351P] [RG351P PPSSPP Settings and Compatibility List](https://github.com/jserodio/rg351p-ppsspp-settings) ⚠️ Archived
 * [Retrosizer](https://retrosizer.com/) compare the size of handheld devices and see how certain systems will appear on their screens. You can drag the devices and rotate them etc. (controllers too)
 * [Google Sheet with technical specs about other consoles](https://docs.google.com/spreadsheets/d/1irg60f9qsZOkhp0cwOU7Cy4rJQeyusEUzTNQzhoTYTU/edit?usp=drivesdk)
@@ -435,4 +435,4 @@ Titles have been aggregated from these links: [link1](https://www.reddit.com/r/E
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
