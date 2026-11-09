@@ -105,7 +105,7 @@
                     "open_issues": 1,
                     "owner": "JustEnoughLinuxOS",
                     "repo": "distribution",
-                    "stars": 945,
+                    "stars": 946,
                     "topics": [
                       "air",
                       "anbernic",
@@ -261,10 +261,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-11-04T17:59:21Z",
-                "open_issues": 156,
+                "open_issues": 157,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1974,
+                "stars": 1975,
                 "topics": [
                   "android",
                   "daijishou",
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T11:12:41.615Z",
+    "last_updated": "2026-11-09T12:44:20.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
