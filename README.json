@@ -147,7 +147,7 @@
                     "open_issues": 17,
                     "owner": "eduardofilo",
                     "repo": "RG350_adam_image",
-                    "stars": 323,
+                    "stars": 324,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
@@ -260,11 +260,11 @@
                 "id": 466666051,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-04T17:59:21Z",
+                "last_commit": "2026-11-09T21:21:10Z",
                 "open_issues": 157,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1975,
+                "stars": 1974,
                 "topics": [
                   "android",
                   "daijishou",
@@ -361,7 +361,7 @@
                 "open_issues": 2,
                 "owner": "JohnIrvine1433",
                 "repo": "ThemeMaster",
-                "stars": 169,
+                "stars": 168,
                 "topics": [
                   "anbernic",
                   "arkos",
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T12:44:20.765Z",
+    "last_updated": "2026-11-10T12:28:14.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
