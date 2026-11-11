@@ -216,7 +216,7 @@ General facts found while browsing:
   * RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP, RG503, WIN600
 * [Adam](https://github.com/eduardofilo/RG350_adam_image) ⚠️ Archived Custom firmware EmuStation for 350/350P, 280MV, 300X
   * RG350/M/P, RG280M/V, RG300X
-* [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 310 | 🐛 1 | 🌐 Makefile | 📅 2026-06-25  : JELOS fork. Retroarch + Emustation frontend
+* [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 311 | 🐛 1 | 🌐 Makefile | 📅 2026-06-25  : JELOS fork. Retroarch + Emustation frontend
   * RG35XX, RG353P/M/V/VS/PS, RG351P/M/V/MP, RG503, WIN600
 * [MinUI](https://github.com/shauninman/union-minui) ⚠️ Archived: Minimal frontend. minarch + libretro cores
   * RG35XX
@@ -269,11 +269,11 @@ Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 ## Tools
 
-* [PortMaster](https://github.com/christianhaitian/PortMaster) ⭐ 707 | 🐛 3 | 🌐 Python | 📅 2024-02-03: A simple tool that allows you to download various game ports that are available for 351Elec/AmberElec, ArkOS, JelOS, RetroOZ, TheRA, and UnofficialOS for the RK3326 and RK3566 devices and the RG552.
+* [PortMaster](https://github.com/christianhaitian/PortMaster) ⭐ 708 | 🐛 3 | 🌐 Python | 📅 2024-02-03: A simple tool that allows you to download various game ports that are available for 351Elec/AmberElec, ArkOS, JelOS, RetroOZ, TheRA, and UnofficialOS for the RK3326 and RK3566 devices and the RG552.
 
 * [Emulationstation-OGA-Theme-Gallery](https://github.com/Jetup13/Emulationstation-OGA-Theme-Gallery) ⭐ 288 | 🐛 0 | 📅 2026-10-30: Emulationstation theme gallery that links to themes that are compatible on small screen devices such as OGA, OGS, Gameforce Chi, RGB10, RGB10MAX, RK2020, RG351p/m, RG351v, and RG503.
 
-* [ThemeMaster](https://github.com/JohnIrvine1433/ThemeMaster) ⭐ 168 | 🐛 2 | 🌐 Shell | 📅 2026-04-12 An EmulationStation theme manager for small screen devices running [ArkOS](https://github.com/christianhaitian/arkos) ⚠️ Archived, [RetroOZ](https://github.com/southoz/RetroOZ) ⭐ 59 | 🐛 39 | 📅 2022-12-22, [TheRA](https://techtoytinker.com/theretroarena), [JELOS](https://github.com/JustEnoughLinuxOS/distribution) ⚠️ Archived or [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 310 | 🐛 1 | 🌐 Makefile | 📅 2026-06-25.
+* [ThemeMaster](https://github.com/JohnIrvine1433/ThemeMaster) ⭐ 168 | 🐛 2 | 🌐 Shell | 📅 2026-04-12 An EmulationStation theme manager for small screen devices running [ArkOS](https://github.com/christianhaitian/arkos) ⚠️ Archived, [RetroOZ](https://github.com/southoz/RetroOZ) ⭐ 59 | 🐛 39 | 📅 2022-12-22, [TheRA](https://techtoytinker.com/theretroarena), [JELOS](https://github.com/JustEnoughLinuxOS/distribution) ⚠️ Archived or [UnofficialOS](https://github.com/RetroGFX/UnofficialOS) ⭐ 311 | 🐛 1 | 🌐 Makefile | 📅 2026-06-25.
 
 * [AnberPorts](https://github.com/krishenriksen/AnberPorts) ⚠️ Archived: AnberPorts for Anbernic RG351P/M and RG351V running ArkOS, 351elec and The RA. The project is on hold, so it is advised to use **PortMaster**.
 
@@ -435,4 +435,4 @@ Titles have been aggregated from these links: [link1](https://www.reddit.com/r/E
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._

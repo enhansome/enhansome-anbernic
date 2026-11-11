@@ -168,7 +168,7 @@
                     "open_issues": 1,
                     "owner": "RetroGFX",
                     "repo": "UnofficialOS",
-                    "stars": 310,
+                    "stars": 311,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
@@ -319,7 +319,7 @@
                 "open_issues": 3,
                 "owner": "christianhaitian",
                 "repo": "PortMaster",
-                "stars": 707,
+                "stars": 708,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T12:28:14.187Z",
+    "last_updated": "2026-11-11T11:47:31.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
