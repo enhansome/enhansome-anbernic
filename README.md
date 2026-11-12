@@ -249,8 +249,8 @@ General facts found while browsing:
 Here's a non-exhaustive list of frontends that you can use with your Anbernic:
 
 * [EmulationStation](https://github.com/Aloshi/EmulationStation) ⭐ 2,297 | 🐛 554 | 🌐 C++ | 📅 2024-07-15: A graphical and themeable emulator front-end that allows you to access all your favorite games in one place, even without a keyboard!
-* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,974 | 🐛 157 | 🌐 Python | 📅 2026-11-09: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
-* \[Opendingux] [SimpleMenu](https://github.com/fgl82/simplemenu/releases) ⭐ 160 | 🐛 27 | 🌐 C | 📅 2026-03-16:  Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices
+* \[Android] [Daijishou](https://github.com/magneticchen/Daijishou) ⭐ 1,975 | 🐛 157 | 🌐 Python | 📅 2026-11-11: Daijishō is a retro launcher that let you manage your retro games libraries. It does not come with emulators.
+* \[Opendingux] [SimpleMenu](https://github.com/fgl82/simplemenu/releases) ⭐ 159 | 🐛 27 | 🌐 C | 📅 2026-03-16:  Simple menu launcher for the new Bittboy, Pocket Go, RetroFW and OpenDingux devices
 * \[Android] [Launchbox](https://www.launchbox-app.com/): box-art-based games database and launcher for DOSBox, emulators, arcade cabinets, and PC Games
 
 ## Games and homebrew
@@ -435,4 +435,4 @@ Titles have been aggregated from these links: [link1](https://www.reddit.com/r/E
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
