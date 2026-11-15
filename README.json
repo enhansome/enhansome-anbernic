@@ -210,7 +210,7 @@
                     "open_issues": 0,
                     "owner": "Ninoh-FOX",
                     "repo": "RG350-ROGUE-CFW",
-                    "stars": 225,
+                    "stars": 224,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
@@ -264,7 +264,7 @@
                 "open_issues": 157,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1978,
+                "stars": 1984,
                 "topics": [
                   "android",
                   "daijishou",
@@ -340,7 +340,7 @@
                 "open_issues": 0,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
-                "stars": 288,
+                "stars": 287,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T11:21:53.600Z",
+    "last_updated": "2026-11-15T11:52:56.844Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
