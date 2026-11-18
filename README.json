@@ -23,7 +23,7 @@
                     "open_issues": 25,
                     "owner": "christianhaitian",
                     "repo": "arkos",
-                    "stars": 2152,
+                    "stars": 2153,
                     "topics": [
                       "arkos",
                       "chi",
@@ -189,7 +189,7 @@
                     "open_issues": 0,
                     "owner": "shauninman",
                     "repo": "MinUI-Legacy-RG35XX",
-                    "stars": 225,
+                    "stars": 224,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
@@ -264,7 +264,7 @@
                 "open_issues": 157,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1985,
+                "stars": 1988,
                 "topics": [
                   "android",
                   "daijishou",
@@ -340,7 +340,7 @@
                 "open_issues": 0,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
-                "stars": 287,
+                "stars": 288,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T13:05:54.809Z",
+    "last_updated": "2026-11-18T12:56:06.879Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
