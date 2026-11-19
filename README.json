@@ -65,7 +65,7 @@
                     "open_issues": 2,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
-                    "stars": 1201,
+                    "stars": 1202,
                     "topics": [
                       "d007",
                       "emulation",
@@ -105,7 +105,7 @@
                     "open_issues": 1,
                     "owner": "JustEnoughLinuxOS",
                     "repo": "distribution",
-                    "stars": 946,
+                    "stars": 945,
                     "topics": [
                       "air",
                       "anbernic",
@@ -175,27 +175,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "MinUI",
-                  "description": "Minimal frontend. minarch + libretro cores",
-                  "children": [],
-                  "repo_info": {
-                    "archived": true,
-                    "description": "MinUI is a focused custom launcher for the Anbernic RG35XX.",
-                    "homepage": "https://github.com/shauninman/MinUI",
-                    "id": 605351307,
-                    "language": "C",
-                    "license": null,
-                    "last_commit": "2023-03-26T13:12:35Z",
-                    "open_issues": 0,
-                    "owner": "shauninman",
-                    "repo": "MinUI-Legacy-RG35XX",
-                    "stars": 224,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-28T16:32:03.545Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "RogueCFW",
                   "description": "Rogue CFW for RG350",
                   "children": [],
@@ -210,6 +189,27 @@
                     "open_issues": 0,
                     "owner": "Ninoh-FOX",
                     "repo": "RG350-ROGUE-CFW",
+                    "stars": 225,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T16:32:03.545Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "MinUI",
+                  "description": "Minimal frontend. minarch + libretro cores",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "description": "MinUI is a focused custom launcher for the Anbernic RG35XX.",
+                    "homepage": "https://github.com/shauninman/MinUI",
+                    "id": 605351307,
+                    "language": "C",
+                    "license": null,
+                    "last_commit": "2023-03-26T13:12:35Z",
+                    "open_issues": 0,
+                    "owner": "shauninman",
+                    "repo": "MinUI-Legacy-RG35XX",
                     "stars": 224,
                     "topics": []
                   },
@@ -264,7 +264,7 @@
                 "open_issues": 157,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1988,
+                "stars": 1989,
                 "topics": [
                   "android",
                   "daijishou",
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T12:56:06.879Z",
+    "last_updated": "2026-11-19T12:49:54.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
