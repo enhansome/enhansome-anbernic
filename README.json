@@ -23,7 +23,7 @@
                     "open_issues": 25,
                     "owner": "christianhaitian",
                     "repo": "arkos",
-                    "stars": 2153,
+                    "stars": 2152,
                     "topics": [
                       "arkos",
                       "chi",
@@ -65,7 +65,7 @@
                     "open_issues": 2,
                     "owner": "AmberELEC",
                     "repo": "AmberELEC",
-                    "stars": 1202,
+                    "stars": 1201,
                     "topics": [
                       "d007",
                       "emulation",
@@ -147,7 +147,7 @@
                     "open_issues": 17,
                     "owner": "eduardofilo",
                     "repo": "RG350_adam_image",
-                    "stars": 324,
+                    "stars": 321,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T16:32:03.545Z"
@@ -264,7 +264,7 @@
                 "open_issues": 157,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1989,
+                "stars": 1990,
                 "topics": [
                   "android",
                   "daijishou",
@@ -319,7 +319,7 @@
                 "open_issues": 3,
                 "owner": "christianhaitian",
                 "repo": "PortMaster",
-                "stars": 708,
+                "stars": 707,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -340,7 +340,7 @@
                 "open_issues": 0,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
-                "stars": 288,
+                "stars": 289,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T12:49:54.346Z",
+    "last_updated": "2026-11-20T12:43:25.316Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
