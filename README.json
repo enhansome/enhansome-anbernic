@@ -243,7 +243,7 @@
                 "open_issues": 554,
                 "owner": "Aloshi",
                 "repo": "EmulationStation",
-                "stars": 2298,
+                "stars": 2299,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -260,11 +260,11 @@
                 "id": 466666051,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-11T19:09:21Z",
+                "last_commit": "2026-11-21T12:48:33Z",
                 "open_issues": 157,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1990,
+                "stars": 1992,
                 "topics": [
                   "android",
                   "daijishou",
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T12:27:42.080Z",
+    "last_updated": "2026-11-22T12:27:34.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
