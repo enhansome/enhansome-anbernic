@@ -260,11 +260,11 @@
                 "id": 466666051,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-24T05:03:18Z",
+                "last_commit": "2026-11-24T17:49:42Z",
                 "open_issues": 160,
                 "owner": "TapiocaFox",
                 "repo": "Daijishou",
-                "stars": 1994,
+                "stars": 1996,
                 "topics": [
                   "android",
                   "daijishou",
@@ -340,7 +340,7 @@
                 "open_issues": 0,
                 "owner": "Jetup13",
                 "repo": "Emulationstation-OGA-Theme-Gallery",
-                "stars": 289,
+                "stars": 290,
                 "topics": []
               },
               "first_seen": "2026-08-28T16:32:03.545Z"
@@ -482,7 +482,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T14:44:09.115Z",
+    "last_updated": "2026-11-25T14:08:12.120Z",
     "original_repository_info": {
       "archived": false,
       "description": "Resources for Anbernic consoles (links, CFW...)",
